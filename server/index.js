@@ -4,7 +4,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { getFearGreed, getTvlMovers, getMacro, getAssetCharts } from '../lib/liveData.js'
 import { getMvrvZScore, getPuellMultiple, getPiCycleBottom } from '../lib/onchain.js'
-import { getFundingRates } from '../lib/futures.js'
+import { getFundingRates, getTopFundingAssets } from '../lib/futures.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const SNAPSHOT_PATH = path.join(__dirname, '..', 'data', 'snapshot.json')
@@ -57,6 +57,7 @@ app.get('/api/live/funding-rates', async (req, res) => {
     res.status(502).json({ error: err.message })
   }
 })
+app.get('/api/live/top-funding-assets', handle(getTopFundingAssets))
 
 app.get('/api/snapshot', async (_req, res) => {
   try {

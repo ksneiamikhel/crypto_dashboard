@@ -115,3 +115,9 @@ export type FundingRate = {
 }
 
 export type FundingRates = Record<string, FundingRate | null>
+
+export type TopFundingAsset = {
+  symbol: string
+  name: string
+  marketCapRank: number
+}

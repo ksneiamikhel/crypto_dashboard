@@ -5,6 +5,7 @@ import {
   fetchMvrvZScore,
   fetchPiCycleBottom,
   fetchPuellMultiple,
+  fetchTopFundingAssets,
 } from '../api'
 import { FearGreedHistoryCard } from '../components/FearGreedHistoryCard'
 import { FundingCard } from '../components/FundingCard'
@@ -14,10 +15,14 @@ import { PiCycleCard } from '../components/PiCycleCard'
 import { PuellCard } from '../components/PuellCard'
 import { SectionCard } from '../components/SectionCard'
 import { computeBullishScore } from '../lib/scoring'
-import type { FearGreedPoint, FundingRates, MvrvZScore, PiCycleBottom, PuellMultiple } from '../types'
+import type { FearGreedPoint, FundingRates, MvrvZScore, PiCycleBottom, PuellMultiple, TopFundingAsset } from '../types'
 
 const REFRESH_INTERVAL_MS = 60 * 60 * 1000
-const SELECTABLE_ASSETS = ['SOL', 'BNB', 'XRP', 'ADA', 'DOGE', 'AVAX', 'LINK', 'DOT', 'ARB', 'OP', 'SUI', 'HYPE']
+const FALLBACK_ASSETS: TopFundingAsset[] = [
+  { symbol: 'SOL', name: 'Solana', marketCapRank: 7 },
+  { symbol: 'DOGE', name: 'Dogecoin', marketCapRank: 11 },
+  { symbol: 'ADA', name: 'Cardano', marketCapRank: 19 },
+]
 
 type State = {
   mvrv: MvrvZScore | null
@@ -33,6 +38,7 @@ type State = {
 
 function SignalsPage() {
   const [selectedAsset, setSelectedAsset] = useState('SOL')
+  const [topAssets, setTopAssets] = useState<TopFundingAsset[]>(FALLBACK_ASSETS)
   const [state, setState] = useState<State>({
     mvrv: null,
     puell: null,
@@ -77,6 +83,15 @@ function SignalsPage() {
     return () => clearInterval(id)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedAsset])
+
+  useEffect(() => {
+    fetchTopFundingAssets()
+      .then((assets) => {
+        const selectable = assets.filter((a) => a.symbol !== 'BTC' && a.symbol !== 'ETH')
+        if (selectable.length) setTopAssets(selectable)
+      })
+      .catch(() => {})
+  }, [])
 
   const allReady = state.mvrv && state.puell && state.piCycle && state.fearGreed && state.funding
   const bullish =
@@ -160,9 +175,9 @@ function SignalsPage() {
                 className="text-xs font-medium px-2 py-1 rounded-md"
                 style={{ border: '1px solid var(--border)', background: 'var(--surface-1)', color: 'var(--text-primary)' }}
               >
-                {SELECTABLE_ASSETS.map((a) => (
-                  <option key={a} value={a}>
-                    {a}
+                {topAssets.map((a) => (
+                  <option key={a.symbol} value={a.symbol}>
+                    #{a.marketCapRank} {a.symbol} — {a.name}
                   </option>
                 ))}
               </select>

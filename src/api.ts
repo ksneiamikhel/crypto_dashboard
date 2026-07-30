@@ -7,6 +7,7 @@ import type {
   PiCycleBottom,
   PuellMultiple,
   Snapshot,
+  TopFundingAsset,
   TvlMovers,
 } from './types'
 
@@ -28,3 +29,4 @@ export const fetchPuellMultiple = () => getJson<PuellMultiple>('/api/live/puell-
 export const fetchPiCycleBottom = () => getJson<PiCycleBottom>('/api/live/pi-cycle-bottom')
 export const fetchFundingRates = (symbols: string[]) =>
   getJson<FundingRates>(`/api/live/funding-rates?symbols=${encodeURIComponent(symbols.join(','))}`)
+export const fetchTopFundingAssets = () => getJson<TopFundingAsset[]>('/api/live/top-funding-assets')
