@@ -4,15 +4,6 @@ export type FearGreedPoint = {
   timestamp: number
 }
 
-export type TvlPoint = { date: number; tvl: number }
-
-export type TvlData = {
-  points: TvlPoint[]
-  latest: number
-  change1d: number
-  change7d: number
-}
-
 export type TvlMover = {
   name: string
   category: string
@@ -50,6 +41,14 @@ export type TradeIdea = {
   rationale: string
 }
 
+export type AssetChart = {
+  price: number
+  changePct24h: number
+  sparkline: number[]
+}
+
+export type AssetCharts = Record<string, AssetChart>
+
 export type Unlock = {
   project: string
   date: string
@@ -74,3 +73,45 @@ export type Snapshot = {
     eth: EtfFlow
   }
 }
+
+export type MvrvZScore = {
+  current: number
+  status: 'Undervalued' | 'Neutral' | 'Overvalued'
+  signal: 'BUY' | 'HOLD' | 'TAKE PROFIT'
+  historyRange: { min: number; max: number }
+  series: { date: number; value: number }[]
+  updatedAt: number
+}
+
+export type PuellMultiple = {
+  current: number
+  status: 'Low' | 'Normal' | 'High'
+  signal: 'BUY' | 'NEUTRAL' | 'OVERHEATED'
+  historyRange: { min: number; max: number }
+  series: { date: number; value: number }[]
+  updatedAt: number
+}
+
+export type PiCycleBottom = {
+  status: 'No Signal' | 'Approaching Bottom' | 'Bottom Signal Active'
+  signal: string
+  gapPct: number
+  shortLine: number
+  longLine: number
+  previousSignals: number[]
+  series: { date: number; short: number; long: number }[]
+  updatedAt: number
+}
+
+export type FundingRate = {
+  symbol: string
+  currentPct: number
+  avg24hPct: number
+  status: 'Bullish' | 'Neutral' | 'Bearish'
+  signal: string
+  series: { time: number; ratePct: number }[]
+  nextFundingTime: number
+  updatedAt: number
+}
+
+export type FundingRates = Record<string, FundingRate | null>

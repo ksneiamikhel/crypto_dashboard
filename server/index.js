@@ -2,7 +2,9 @@ import express from 'express'
 import { readFile } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { getFearGreed, getGlobalTvl, getTvlMovers, getMacro } from '../lib/liveData.js'
+import { getFearGreed, getTvlMovers, getMacro, getAssetCharts } from '../lib/liveData.js'
+import { getMvrvZScore, getPuellMultiple, getPiCycleBottom } from '../lib/onchain.js'
+import { getFundingRates } from '../lib/futures.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const SNAPSHOT_PATH = path.join(__dirname, '..', 'data', 'snapshot.json')
@@ -20,10 +22,41 @@ function handle(getter) {
   }
 }
 
-app.get('/api/live/fear-greed', handle(getFearGreed))
-app.get('/api/live/tvl', handle(getGlobalTvl))
+app.get('/api/live/fear-greed', async (req, res) => {
+  try {
+    const limit = req.query.limit ? Number(req.query.limit) : undefined
+    res.json(await getFearGreed(limit))
+  } catch (err) {
+    res.status(502).json({ error: err.message })
+  }
+})
 app.get('/api/live/tvl-movers', handle(getTvlMovers))
 app.get('/api/live/macro', handle(getMacro))
+app.get('/api/live/asset-charts', async (req, res) => {
+  try {
+    const symbols = String(req.query.symbols || '')
+      .split(',')
+      .map((s) => s.trim())
+      .filter(Boolean)
+    res.json(await getAssetCharts(symbols))
+  } catch (err) {
+    res.status(502).json({ error: err.message })
+  }
+})
+app.get('/api/live/mvrv-zscore', handle(getMvrvZScore))
+app.get('/api/live/puell-multiple', handle(getPuellMultiple))
+app.get('/api/live/pi-cycle-bottom', handle(getPiCycleBottom))
+app.get('/api/live/funding-rates', async (req, res) => {
+  try {
+    const symbols = String(req.query.symbols || 'BTC,ETH')
+      .split(',')
+      .map((s) => s.trim())
+      .filter(Boolean)
+    res.json(await getFundingRates(symbols))
+  } catch (err) {
+    res.status(502).json({ error: err.message })
+  }
+})
 
 app.get('/api/snapshot', async (_req, res) => {
   try {

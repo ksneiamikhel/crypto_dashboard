@@ -1,4 +1,14 @@
-import type { FearGreedPoint, MacroData, Snapshot, TvlData, TvlMovers } from './types'
+import type {
+  AssetCharts,
+  FearGreedPoint,
+  FundingRates,
+  MacroData,
+  MvrvZScore,
+  PiCycleBottom,
+  PuellMultiple,
+  Snapshot,
+  TvlMovers,
+} from './types'
 
 async function getJson<T>(url: string): Promise<T> {
   const res = await fetch(url)
@@ -6,8 +16,15 @@ async function getJson<T>(url: string): Promise<T> {
   return res.json() as Promise<T>
 }
 
-export const fetchFearGreed = () => getJson<FearGreedPoint[]>('/api/live/fear-greed')
-export const fetchTvl = () => getJson<TvlData>('/api/live/tvl')
+export const fetchFearGreed = (limit?: number) =>
+  getJson<FearGreedPoint[]>(limit ? `/api/live/fear-greed?limit=${limit}` : '/api/live/fear-greed')
 export const fetchTvlMovers = () => getJson<TvlMovers>('/api/live/tvl-movers')
 export const fetchMacro = () => getJson<MacroData>('/api/live/macro')
 export const fetchSnapshot = () => getJson<Snapshot>('/api/snapshot')
+export const fetchAssetCharts = (symbols: string[]) =>
+  getJson<AssetCharts>(`/api/live/asset-charts?symbols=${encodeURIComponent(symbols.join(','))}`)
+export const fetchMvrvZScore = () => getJson<MvrvZScore>('/api/live/mvrv-zscore')
+export const fetchPuellMultiple = () => getJson<PuellMultiple>('/api/live/puell-multiple')
+export const fetchPiCycleBottom = () => getJson<PiCycleBottom>('/api/live/pi-cycle-bottom')
+export const fetchFundingRates = (symbols: string[]) =>
+  getJson<FundingRates>(`/api/live/funding-rates?symbols=${encodeURIComponent(symbols.join(','))}`)

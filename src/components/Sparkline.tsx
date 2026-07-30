@@ -2,9 +2,10 @@ type Props = {
   points: number[]
   width?: number
   height?: number
+  color?: string
 }
 
-export function Sparkline({ points, width = 96, height = 28 }: Props) {
+export function Sparkline({ points, width = 96, height = 28, color = 'var(--series-blue)' }: Props) {
   if (points.length < 2) return null
   const min = Math.min(...points)
   const max = Math.max(...points)
@@ -20,8 +21,8 @@ export function Sparkline({ points, width = 96, height = 28 }: Props) {
 
   return (
     <svg width={width} height={height} viewBox={`0 0 ${width} ${height}`} role="img" aria-hidden="true">
-      <path d={areaPath} fill="var(--series-blue)" opacity={0.1} stroke="none" />
-      <path d={linePath} fill="none" stroke="var(--series-blue)" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" />
+      <path d={areaPath} fill={color} opacity={0.1} stroke="none" />
+      <path d={linePath} fill="none" stroke={color} strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   )
 }

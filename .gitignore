@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.vercel
+.env*
+
+# Local Claude Code settings (personal, not shared)
+.claude/settings.local.json
