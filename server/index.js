@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url'
 import { getFearGreed, getTvlMovers, getMacro, getAssetCharts } from '../lib/liveData.js'
 import { getMvrvZScore, getPuellMultiple, getPiCycleBottom } from '../lib/onchain.js'
 import { getFundingRates, getTopFundingAssets } from '../lib/futures.js'
+import { getTokenAnalysis } from '../lib/technicals.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const SNAPSHOT_PATH = path.join(__dirname, '..', 'data', 'snapshot.json')
@@ -57,7 +58,22 @@ app.get('/api/live/funding-rates', async (req, res) => {
     res.status(502).json({ error: err.message })
   }
 })
-app.get('/api/live/top-funding-assets', handle(getTopFundingAssets))
+app.get('/api/live/top-funding-assets', async (req, res) => {
+  try {
+    const limit = req.query.limit ? Number(req.query.limit) : undefined
+    res.json(await getTopFundingAssets(limit))
+  } catch (err) {
+    res.status(502).json({ error: err.message })
+  }
+})
+app.get('/api/live/token-analysis', async (req, res) => {
+  try {
+    const symbol = String(req.query.symbol || 'BTC').trim()
+    res.json(await getTokenAnalysis(symbol))
+  } catch (err) {
+    res.status(502).json({ error: err.message })
+  }
+})
 
 app.get('/api/snapshot', async (_req, res) => {
   try {

@@ -121,3 +121,19 @@ export type TopFundingAsset = {
   name: string
   marketCapRank: number
 }
+
+export type TokenAnalysis = {
+  symbol: string
+  price: number
+  ema20: number
+  ema50: number
+  trend: 'Bullish' | 'Bearish' | 'Mixed'
+  rsi14: number
+  momentum: 'Overbought' | 'Oversold' | 'Bullish' | 'Bearish'
+  macd: { line: number; signal: number; histogram: number }
+  atr14: number
+  atrPct: number
+  funding: { currentPct: number; status: 'Bullish' | 'Neutral' | 'Bearish' } | null
+  series: { time: number; close: number }[]
+  updatedAt: number
+}

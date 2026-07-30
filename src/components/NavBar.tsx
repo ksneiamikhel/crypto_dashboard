@@ -1,7 +1,10 @@
 import { NavLink } from 'react-router-dom'
 
-const linkClass = ({ isActive }: { isActive: boolean }) =>
-  `px-3 py-1.5 text-sm font-medium rounded-md ${isActive ? '' : 'opacity-60 hover:opacity-100'}`
+const LINKS = [
+  { to: '/', label: 'Markets', end: true },
+  { to: '/signals', label: 'On-Chain Signals', end: false },
+  { to: '/summary', label: 'Trade Summary', end: false },
+]
 
 export function NavBar() {
   return (
@@ -9,29 +12,22 @@ export function NavBar() {
       className="px-6 py-2 flex items-center gap-2"
       style={{ background: 'var(--page)', borderBottom: '1px solid var(--border)' }}
     >
-      <NavLink
-        to="/"
-        end
-        className={linkClass}
-        style={({ isActive }) => ({
-          color: isActive ? 'var(--text-primary)' : 'var(--text-secondary)',
-          background: isActive ? 'var(--surface-1)' : 'transparent',
-          border: isActive ? '1px solid var(--border)' : '1px solid transparent',
-        })}
-      >
-        Markets
-      </NavLink>
-      <NavLink
-        to="/signals"
-        className={linkClass}
-        style={({ isActive }) => ({
-          color: isActive ? 'var(--text-primary)' : 'var(--text-secondary)',
-          background: isActive ? 'var(--surface-1)' : 'transparent',
-          border: isActive ? '1px solid var(--border)' : '1px solid transparent',
-        })}
-      >
-        On-Chain Signals
-      </NavLink>
+      {LINKS.map((link) => (
+        <NavLink
+          key={link.to}
+          to={link.to}
+          end={link.end}
+          className="px-3 py-1.5 text-sm font-medium rounded-md"
+          style={({ isActive }) => ({
+            color: isActive ? 'var(--text-primary)' : 'var(--text-secondary)',
+            background: isActive ? 'var(--surface-1)' : 'transparent',
+            border: isActive ? '1px solid var(--border)' : '1px solid transparent',
+            opacity: isActive ? 1 : 0.8,
+          })}
+        >
+          {link.label}
+        </NavLink>
+      ))}
     </div>
   )
 }
