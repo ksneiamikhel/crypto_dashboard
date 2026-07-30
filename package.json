@@ -8,6 +8,7 @@
     "dev:client": "vite",
     "dev:server": "node server/index.js",
     "build": "tsc -b && vite build",
+    "refresh:news": "node scripts/update-news.mjs",
     "lint": "oxlint",
     "preview": "vite preview"
   },

@@ -10,7 +10,7 @@ import { TvlMovers } from '../components/TvlMovers'
 import { UnlocksTable } from '../components/UnlocksTable'
 import type { AssetCharts, FearGreedPoint, MacroData, Snapshot, TvlMovers as TvlMoversType } from '../types'
 
-const REFRESH_INTERVAL_MS = 60 * 60 * 1000
+const REFRESH_INTERVAL_MS = 15 * 60 * 1000
 
 type State = {
   fearGreed: FearGreedPoint[] | null
@@ -80,7 +80,7 @@ function MarketPage() {
           </h1>
           {state.snapshot && (
             <p className="text-xs mt-0.5" style={{ color: 'var(--text-muted)' }}>
-              News & trade ideas last refreshed {new Date(state.snapshot.generatedAt).toLocaleString()}
+              News & trade ideas last refreshed {new Date(state.snapshot.generatedAt).toLocaleString()} • auto-refresh every 15 min
             </p>
           )}
         </div>

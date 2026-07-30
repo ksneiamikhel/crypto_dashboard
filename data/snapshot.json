@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-07-29T13:00:00Z",
+  "generatedAt": "2026-07-30T15:43:50.864Z",
   "news": [
     {
-      "title": "Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold — someone will be wrong",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/29/citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someone-will-be-wrong",
-      "highlighted": true,
-      "reason": "A surprise 25bp hike against the ~80% consensus for a hold could trigger a sharp risk-off move given already cautious BTC positioning."
+      "title": "Crypto for Advisors: Is the Clarity Act dead?",
+      "source": "Aaron Brogan",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "South Korea halts KOSPI as SK Hynix plunges, raising concerns for AI crypto tokens",
-      "source": "KuCoin",
-      "url": "https://www.kucoin.com/news/flash/south-korea-halts-kospi-as-sk-hynix-plunges-raising-concerns-for-ai-crypto-tokens",
+      "title": "CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures",
+      "source": "Aoyon Ashraf",
+      "url": "https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures",
       "highlighted": true,
-      "reason": "Kospi's ~11% one-day plunge from the AI-chip rout hit AI and L1 tokens (FET, NEAR, HYPE) especially hard, showing lingering crypto correlation to tech-equity risk-off shocks."
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "U.S. Senate puts off crypto CLARITY Act for now as it focuses limited bandwidth elsewhere",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
+      "title": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/07/30/the-economics-behind-the-aave-proposal-to-ditch-6-chains-that-earn-chump-change",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "JPMorgan says fading Clarity Act odds weigh on crypto outlook",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Bitcoin whales bought $16.7 billion of BTC in two weeks even as ETFs bled a record $4 billion",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/03/bitcoin-whales-bought-270-000-btc-in-two-weeks-even-as-etfs-bled-a-record-usd4-billion",
-      "highlighted": true,
-      "reason": "Wallets holding 10-10,000 BTC added roughly 270,000 BTC even as ETFs recorded record outflows, a supply-to-strong-hands divergence that has historically preceded stabilization."
-    },
-    {
-      "title": "Wall Street money is flowing into Ethereum ETFs and out of Hyperliquid",
-      "source": "BeInCrypto",
-      "url": "https://beincrypto.com/ethereum-etf-flows-beat-bitcoin-hyperliquid/",
-      "highlighted": true,
-      "reason": "ETH spot ETFs have now out-inflowed BTC ETFs for three straight weeks, pointing to an institutional rotation into ether."
-    },
-    {
-      "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
-      "highlighted": true,
-      "reason": "A perp platform had to reimburse $60M after an SK Hynix-linked contract crashed 19%, exposing fragile leverage in crypto perps tied to volatile equity-linked listings."
-    },
-    {
-      "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route",
+      "title": "Ethereum enters its second decade after a year of upheaval at the foundation",
+      "source": "Margaux Nijkerk",
+      "url": "https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Crypto News Today: BTC Reclaims $64K Ahead of FOMC, 1inch Launches New DeFi Liquidity Layer",
-      "source": "99Bitcoins",
-      "url": "https://99bitcoins.com/news/bitcoin-btc/crypto-news-today-july-29-btc-reclaims-64k-ahead-of-fomc-1inch-launches-new-defi-liquidity-layer-and-ionic-digital-shares-jump-25-on-nasdaq-debut/",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Tether signs MoU with Nairobi Securities Exchange to advance digital asset infrastructure in Africa",
-      "source": "CoinGabbar",
-      "url": "https://www.coingabbar.com/en/crypto-currency-news/crypto-news-today-29-july-bitcoin-eth-xrp-orochi-network-gains",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Spot Bitcoin ETFs see fourth straight day of outflows, led by BlackRock's IBIT",
-      "source": "Cryptonews",
-      "url": "https://cryptonews.net/news/bitcoin/33217757/",
+      "title": "Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/07/30/fake-staking-site-drains-usd8-5-million-in-xrp-from-dozens-of-investors-promising-easy-yield",
       "highlighted": true,
-      "reason": "Four consecutive days of BTC ETF net outflows led by IBIT signal cooling institutional demand right as the FOMC decision lands, a near-term bearish flow signal."
+      "reason": ""
+    },
+    {
+      "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin ETFs on track for the smallest monthly inflows ever",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/07/30/bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
+      "highlighted": true,
+      "reason": ""
     }
   ],
   "trades": [
@@ -194,6 +194,7 @@
     }
   },
   "sourcesUsed": [
+    "https://www.coindesk.com/arc/outboundfeeds/rss/",
     "https://www.coindesk.com/markets/2026/07/29/citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someone-will-be-wrong",
     "https://www.coindesk.com/markets/2026/07/29/bitcoin-rises-toward-usd64-000-as-korea-s-record-chip-crash-leaves-crypto-untouched",
     "https://www.kucoin.com/news/flash/south-korea-halts-kospi-as-sk-hynix-plunges-raising-concerns-for-ai-crypto-tokens",
