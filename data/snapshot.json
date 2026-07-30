@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-30T15:43:50.864Z",
+  "generatedAt": "2026-07-30T19:16:04.803Z",
   "news": [
+    {
+      "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Ondo Finance weighs acquisition worth up to $500 million",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Crypto for Advisors: Is the Clarity Act dead?",
       "source": "Aaron Brogan",
@@ -13,14 +27,14 @@
       "source": "Aoyon Ashraf",
       "url": "https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/07/30/the-economics-behind-the-aave-proposal-to-ditch-6-chains-that-earn-chump-change",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "JPMorgan says fading Clarity Act odds weigh on crypto outlook",
@@ -54,20 +68,6 @@
       "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin ETFs on track for the smallest monthly inflows ever",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/30/bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
       "highlighted": true,
       "reason": ""
     }
