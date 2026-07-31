@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-07-31T02:09:46.432Z",
+  "generatedAt": "2026-07-31T08:40:07.298Z",
   "news": [
+    {
+      "title": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Live updates: Bitcoin steady as Japan holds rates at 1%, keeping the yen carry trade alive",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Ondo Finance weighs acquisition worth up to $500 million",
@@ -41,34 +69,6 @@
       "source": "Aoyon Ashraf",
       "url": "https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/07/30/the-economics-behind-the-aave-proposal-to-ditch-6-chains-that-earn-chump-change",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "JPMorgan says fading Clarity Act odds weigh on crypto outlook",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Ethereum enters its second decade after a year of upheaval at the foundation",
-      "source": "Margaux Nijkerk",
-      "url": "https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
-      "highlighted": false,
       "reason": ""
     }
   ],
