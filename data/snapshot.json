@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-07-31T13:49:29.787Z",
+  "generatedAt": "2026-07-31T19:14:50.217Z",
   "news": [
+    {
+      "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "The good and the bad of perps, according to crypto traders",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Crypto faces 3 barriers to next bull run, STS Digital CEO says",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Coinbase's weak quarter leaves Wall Street split on timing of a recovery",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "RWA perps will outpace tokenization",
       "source": "Martin Lee",
       "url": "https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "World Cup bets smash records as prediction markets hit $20 billion in volume",
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "​Traders brace for an August crypto pull-back as protection against $60,000 bitcoin dip becomes top trade",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/31/bitcoin-usd60-000-put-leads-the-pack-as-mood-swings-bearish-for-august",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
-      "highlighted": true,
       "reason": ""
     }
   ],
