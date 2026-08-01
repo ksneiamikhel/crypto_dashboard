@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-08-01T13:05:00.837Z",
+  "generatedAt": "2026-08-01T18:59:50.692Z",
   "news": [
+    {
+      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
       "source": "Margaux Nijkerk",
       "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Everyone has the perps convergence backwards",
       "source": "Gracy Chen",
       "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
@@ -41,34 +69,6 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "The good and the bad of perps, according to crypto traders",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
-      "highlighted": false,
       "reason": ""
     }
   ],
