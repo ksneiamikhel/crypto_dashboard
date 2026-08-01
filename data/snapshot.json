@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-08-01T08:10:00.239Z",
+  "generatedAt": "2026-08-01T13:05:00.837Z",
   "news": [
+    {
+      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+      "source": "Margaux Nijkerk",
+      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Everyone has the perps convergence backwards",
+      "source": "Gracy Chen",
+      "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
@@ -47,27 +68,6 @@
       "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto faces 3 barriers to next bull run, STS Digital CEO says",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Coinbase's weak quarter leaves Wall Street split on timing of a recovery",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
       "highlighted": false,
       "reason": ""
     }
