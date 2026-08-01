@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-01T02:11:19.536Z",
+  "generatedAt": "2026-08-01T08:10:00.239Z",
   "news": [
+    {
+      "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
       "source": "Krisztian Sandor",
@@ -13,14 +27,14 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "The good and the bad of perps, according to crypto traders",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
@@ -55,20 +69,6 @@
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "RWA perps will outpace tokenization",
-      "source": "Martin Lee",
-      "url": "https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
-      "highlighted": true,
       "reason": ""
     }
   ],
