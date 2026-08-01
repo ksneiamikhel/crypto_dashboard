@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-07-31T19:14:50.217Z",
+  "generatedAt": "2026-08-01T02:11:19.536Z",
   "news": [
+    {
+      "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
       "source": "Olivier Acuna",
@@ -20,7 +27,7 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
       "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
+      "reason": ""
     },
     {
       "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
@@ -62,13 +69,6 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "World Cup bets smash records as prediction markets hit $20 billion in volume",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
-      "highlighted": false,
       "reason": ""
     }
   ],
