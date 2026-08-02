@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-08-02T13:06:37.929Z",
+  "generatedAt": "2026-08-02T19:00:36.800Z",
   "news": [
+    {
+      "title": "Counting down the days: State of Crypto",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "The reverse bridge: Crypto meets Wall Street using perps",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Strategy holds STRC dividend at 12%",
       "source": "Stephen Alpher",
       "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
@@ -48,27 +69,6 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
-      "source": "Margaux Nijkerk",
-      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Everyone has the perps convergence backwards",
-      "source": "Gracy Chen",
-      "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
-      "highlighted": false,
       "reason": ""
     }
   ],
