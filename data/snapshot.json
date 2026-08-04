@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-03T19:23:26.471Z",
+  "generatedAt": "2026-08-04T01:56:08.410Z",
   "news": [
+    {
+      "title": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
       "source": "Will Canny",
@@ -20,7 +27,7 @@
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
@@ -61,13 +68,6 @@
       "title": "Solo Bitcoin miner nets $200,000 as Coldcard hardware wallet drains rocks sentiment",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/08/03/solo-bitcoin-miner-nets-usd200-000-as-coldcard-hardware-wallet-drains-rocks-sentiment",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
       "highlighted": true,
       "reason": ""
     }
