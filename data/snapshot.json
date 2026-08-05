@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-08-05T01:55:41.093Z",
+  "generatedAt": "2026-08-05T08:26:04.830Z",
   "news": [
+    {
+      "title": "The worst chart for bitcoin bulls right now",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/05/the-worst-chart-for-bitcoin-bulls-right-now",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/05/you-stole-please-return-some-coldcard-hacker-s-wallet-becomes-a-graffiti-wall-of-pleas-and-hustles",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
@@ -40,34 +68,6 @@
       "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
       "highlighted": true,
       "reason": ""
     }
