@@ -1,26 +1,61 @@
 {
-  "generatedAt": "2026-08-05T13:52:35.818Z",
+  "generatedAt": "2026-08-05T19:20:51.254Z",
   "news": [
+    {
+      "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
+      "source": "Gregory Mall",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/05/crypto-long-and-short-putting-the-bitcoin-sizing-question-to-the-test",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
       "source": "Ian Allison",
       "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
       "source": "Fabian Dori",
       "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
+    },
+    {
+      "title": "Ondo Finance hires former Blockchain.com CFO Adam Schlisman",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
+      "highlighted": true,
+      "reason": ""
     },
     {
       "title": "Galaxy Digital shares slip 5% after second-quarter results",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "AI agent token once worth $2.4 billion ends with founder calling it dead",
@@ -33,41 +68,6 @@
       "title": "SpaceX extends decline to 11% on lockup expiration and capex spending fears",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/05/spacex-stock-drops-11-premarket-as-lockup-spending-fears-hit-first-earnings",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Yellow Card raises $40 million to link banks to stablecoin processing",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
       "highlighted": false,
       "reason": ""
     }
