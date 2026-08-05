@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-04T19:22:43.211Z",
+  "generatedAt": "2026-08-05T01:55:41.093Z",
   "news": [
+    {
+      "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
       "source": "Krisztian Sandor",
@@ -20,7 +27,7 @@
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
@@ -61,13 +68,6 @@
       "title": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "BitGo’s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
       "highlighted": true,
       "reason": ""
     }
