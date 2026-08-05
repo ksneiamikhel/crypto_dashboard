@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-08-05T08:26:04.830Z",
+  "generatedAt": "2026-08-05T13:52:35.818Z",
   "news": [
     {
-      "title": "The worst chart for bitcoin bulls right now",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/05/the-worst-chart-for-bitcoin-bulls-right-now",
+      "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+      "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
+      "source": "Fabian Dori",
+      "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/05/you-stole-please-return-some-coldcard-hacker-s-wallet-becomes-a-graffiti-wall-of-pleas-and-hustles",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
+      "title": "Galaxy Digital shares slip 5% after second-quarter results",
       "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
+      "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "AI agent token once worth $2.4 billion ends with founder calling it dead",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
+      "title": "SpaceX extends decline to 11% on lockup expiration and capex spending fears",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/05/spacex-stock-drops-11-premarket-as-lockup-spending-fears-hit-first-earnings",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Yellow Card raises $40 million to link banks to stablecoin processing",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing",
       "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
+      "highlighted": false,
       "reason": ""
     }
   ],
