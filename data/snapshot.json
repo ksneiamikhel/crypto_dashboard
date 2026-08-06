@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-08-06T08:23:35.102Z",
+  "generatedAt": "2026-08-06T13:49:56.018Z",
   "news": [
     {
-      "title": "Live updates: Bitcoin nears $65,000 as oil, inflation hopes keep macro bid alive",
+      "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "Bitcoin’s low volatility doesn’t necessarily mean low risk",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Free Markets and Innovation, Sort Of",
+      "source": "Summer Mersinger",
+      "url": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "NFT startup founder charged with misusing funds from $10 million fundraising",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: BTC trades near $65,000; SpaceX rises ahead of $100 billion unlock",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Here are the possible outcomes for Clarity right now",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
       "highlighted": true,
       "reason": ""
     }
