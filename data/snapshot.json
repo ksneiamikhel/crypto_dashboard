@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-05T19:20:51.254Z",
+  "generatedAt": "2026-08-06T01:58:57.541Z",
   "news": [
+    {
+      "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
       "source": "Jesse Hamilton",
@@ -20,7 +27,7 @@
       "source": "Gregory Mall",
       "url": "https://www.coindesk.com/coindesk-indices/2026/08/05/crypto-long-and-short-putting-the-bitcoin-sizing-question-to-the-test",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
@@ -62,13 +69,6 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "SpaceX extends decline to 11% on lockup expiration and capex spending fears",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/05/spacex-stock-drops-11-premarket-as-lockup-spending-fears-hit-first-earnings",
-      "highlighted": false,
       "reason": ""
     }
   ],
