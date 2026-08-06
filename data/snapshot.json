@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-08-06T01:58:57.541Z",
+  "generatedAt": "2026-08-06T08:23:35.102Z",
   "news": [
+    {
+      "title": "Live updates: Bitcoin nears $65,000 as oil, inflation hopes keep macro bid alive",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Here are the possible outcomes for Clarity right now",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
       "source": "Will Canny",
       "url": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
-      "source": "Gregory Mall",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/05/crypto-long-and-short-putting-the-bitcoin-sizing-question-to-the-test",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
-      "source": "Fabian Dori",
-      "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Ondo Finance hires former Blockchain.com CFO Adam Schlisman",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Galaxy Digital shares slip 5% after second-quarter results",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "AI agent token once worth $2.4 billion ends with founder calling it dead",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
       "highlighted": true,
       "reason": ""
     }
