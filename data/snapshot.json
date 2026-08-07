@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-08-07T07:04:43.689Z",
+  "generatedAt": "2026-08-07T12:48:14.990Z",
   "news": [
+    {
+      "title": "The U.S. lost 23,000 jobs in July, far shy of forecasts for a gain of 80,000",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "After a Clarity Act funeral, the crypto world would keep turning",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin’s volatility has nearly disappeared. The risk hasn’t.",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/08/07/cmt",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin holding near $65,000 as U.S. jobs data falls short of forecasts",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
-      "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
-    },
-    {
-      "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "XRP leads majors losses as Clarity Act vote slips to September",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Senate won't vote on crypto Clarity Act before its summer break",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Power struggle erupts at Ondo Finance after founder’s death",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
-      "source": "Maria Golenkov",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin’s low volatility doesn’t necessarily mean low risk",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk",
       "highlighted": true,
       "reason": ""
     }
