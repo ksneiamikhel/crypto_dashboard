@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-08-07T02:21:47.351Z",
+  "generatedAt": "2026-08-07T07:04:43.689Z",
   "news": [
+    {
+      "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "XRP leads majors losses as Clarity Act vote slips to September",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Senate won't vote on crypto Clarity Act before its summer break",
       "source": "Nikhilesh De",
       "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Power struggle erupts at Ondo Finance after founder’s death",
       "source": "Will Canny",
       "url": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
@@ -40,34 +68,6 @@
       "title": "Bitcoin’s low volatility doesn’t necessarily mean low risk",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Free Markets and Innovation, Sort Of",
-      "source": "Summer Mersinger",
-      "url": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
       "highlighted": true,
       "reason": ""
     }
