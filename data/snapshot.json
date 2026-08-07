@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-06T23:53:04.674Z",
+  "generatedAt": "2026-08-07T02:21:47.351Z",
   "news": [
+    {
+      "title": "Senate won't vote on crypto Clarity Act before its summer break",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Power struggle erupts at Ondo Finance after founder’s death",
       "source": "Will Canny",
@@ -20,7 +27,7 @@
       "source": "Maria Golenkov",
       "url": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
@@ -61,13 +68,6 @@
       "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "NFT startup founder charged with misusing funds from $10 million fundraising",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising",
       "highlighted": true,
       "reason": ""
     }
