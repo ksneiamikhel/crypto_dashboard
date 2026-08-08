@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-08T01:07:31.910Z",
+  "generatedAt": "2026-08-08T06:40:35.215Z",
   "news": [
+    {
+      "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
       "source": "Krisztian Sandor",
@@ -13,14 +27,14 @@
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
@@ -55,20 +69,6 @@
       "source": "Randi Abernethy",
       "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
-      "highlighted": true,
       "reason": ""
     }
   ],
