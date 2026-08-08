@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-08T06:40:35.215Z",
+  "generatedAt": "2026-08-08T12:34:20.765Z",
   "news": [
+    {
+      "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
       "source": "Shaurya Malwa",
@@ -13,14 +27,14 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
@@ -55,20 +69,6 @@
       "source": "Will Canny",
       "url": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "How a five-second trick let traders drain millions from Polymarket",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
-      "source": "Randi Abernethy",
-      "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
-      "highlighted": false,
       "reason": ""
     }
   ],
