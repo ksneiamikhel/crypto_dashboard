@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-07T18:44:53.494Z",
+  "generatedAt": "2026-08-08T01:07:31.910Z",
   "news": [
+    {
+      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
       "source": "Krisztian Sandor",
@@ -13,14 +27,14 @@
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
       "source": "Ian Allison",
       "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
@@ -54,20 +68,6 @@
       "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "After a Clarity Act funeral, the crypto world would keep turning",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
       "highlighted": true,
       "reason": ""
     }
