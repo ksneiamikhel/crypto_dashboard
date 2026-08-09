@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-08T18:27:27.815Z",
+  "generatedAt": "2026-08-09T01:12:27.494Z",
   "news": [
+    {
+      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
       "source": "Francisco Rodrigues",
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
@@ -62,13 +69,6 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
-      "highlighted": true,
       "reason": ""
     }
   ],
