@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-09T01:12:27.494Z",
+  "generatedAt": "2026-08-09T06:43:31.570Z",
   "news": [
+    {
+      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
       "source": "Jamie Crawley",
@@ -20,7 +27,7 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
@@ -62,13 +69,6 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
-      "highlighted": false,
       "reason": ""
     }
   ],
