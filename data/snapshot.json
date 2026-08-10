@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-08-10T07:18:55.574Z",
+  "generatedAt": "2026-08-10T12:53:59.298Z",
   "news": [
     {
-      "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
+      "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
+      "title": "Why the UK financial watchdog is drafting new rules for tokenized gold",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Bitcoin tops $65,000 with US inflation data due this week",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
+      "title": "Bitcoin's BIP-110 episode is free-market capitalism in purest form",
       "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/10/bitcoin-s-bip-110-episode-is-free-market-capitalism-in-purest-form",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+      "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
       "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
       "highlighted": true,
       "reason": ""
     }
