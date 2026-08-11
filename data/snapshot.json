@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-08-11T06:55:40.046Z",
+  "generatedAt": "2026-08-11T12:49:30.244Z",
   "news": [
     {
-      "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin's 'strongest hands' are back, on-chain data show",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+      "title": "MoneyGram expands on Solana with global crypto-to-cash service",
       "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
-      "source": "AI Boost",
-      "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
+      "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
       "highlighted": false,
-      "reason": ""
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
-      "source": "AI Boost",
-      "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+      "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
       "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
+      "url": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Ravencoin could roll back four days of transactions after critical block flaw",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
+      "title": "Bitcoin-backed lending is entering its institutional era: Two Prime",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
-      "highlighted": false,
+      "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "FlightAware sues Kalshi over bets on flight cancellations",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Software stocks break away from bitcoin: What the rare divergence means for crypto",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/11/software-stocks-break-away-from-bitcoin-what-the-rare-divergence-means-for-crypto",
+      "highlighted": true,
       "reason": ""
     }
   ],
