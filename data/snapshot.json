@@ -1,26 +1,61 @@
 {
-  "generatedAt": "2026-08-11T01:12:47.328Z",
+  "generatedAt": "2026-08-11T06:55:40.046Z",
   "news": [
+    {
+      "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin's 'strongest hands' are back, on-chain data show",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
       "source": "AI Boost",
       "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
       "source": "AI Boost",
       "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
@@ -33,41 +68,6 @@
       "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Solana gets its first Strategy STRC product through Solstice Finance",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
       "highlighted": false,
       "reason": ""
     }
