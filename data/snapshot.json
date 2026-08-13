@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-08-13T07:17:03.693Z",
+  "generatedAt": "2026-08-13T12:55:34.676Z",
   "news": [
+    {
+      "title": "Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin continues flat near $63,500 as U.S. PPI softer than forecast in July",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-usd1-3-million-private-debt-sale",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Metaplanet denies selling bitcoin worth $320 million",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin firms ask AI labs for same tools attackers already have",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
       "highlighted": false,
       "reason": ""
     }
