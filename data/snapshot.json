@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-13T18:54:15.230Z",
+  "generatedAt": "2026-08-14T01:21:35.123Z",
   "news": [
+    {
+      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
       "source": "Krisztian Sandor",
@@ -13,14 +27,14 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Crypto for Advisors: The crypto advice gap",
@@ -54,20 +68,6 @@
       "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Figure revenue doubles as blockchain loan marketplace volumes surge",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bullish shares surge 14% as subscription revenue offsets digital asset slowdown",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
       "highlighted": false,
       "reason": ""
     }
