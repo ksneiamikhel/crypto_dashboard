@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-08-14T01:21:35.123Z",
+  "generatedAt": "2026-08-14T07:15:32.297Z",
   "news": [
+    {
+      "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
@@ -47,27 +68,6 @@
       "title": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/13/swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam",
       "highlighted": false,
       "reason": ""
     }
