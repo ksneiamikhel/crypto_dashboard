@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-15T06:26:34.053Z",
+  "generatedAt": "2026-08-15T12:23:49.587Z",
   "news": [
+    {
+      "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
       "source": "Jesse Hamilton",
@@ -20,7 +27,7 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
@@ -61,13 +68,6 @@
       "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
       "highlighted": true,
       "reason": ""
     }
