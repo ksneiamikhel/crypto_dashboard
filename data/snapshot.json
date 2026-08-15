@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-14T18:44:03.181Z",
+  "generatedAt": "2026-08-15T00:52:52.203Z",
   "news": [
+    {
+      "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
       "source": "Krisztian Sandor",
@@ -13,14 +27,14 @@
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Israel’s largest bank to offer crypto trading with Galaxy",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
@@ -54,20 +68,6 @@
       "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
       "highlighted": true,
       "reason": ""
     }
