@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-08-16T12:25:45.343Z",
+  "generatedAt": "2026-08-16T18:18:52.905Z",
   "news": [
+    {
+      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
       "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
+      "reason": ""
     },
     {
       "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
@@ -41,34 +69,6 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-      "source": "Aoyon Ashraf",
-      "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
-      "highlighted": true,
       "reason": ""
     }
   ],
