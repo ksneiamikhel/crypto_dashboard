@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-16T06:28:36.819Z",
+  "generatedAt": "2026-08-16T12:25:45.343Z",
   "news": [
+    {
+      "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
       "source": "Krisztian Sandor",
@@ -20,7 +27,7 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
@@ -62,13 +69,6 @@
       "source": "Nikhilesh De",
       "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
-      "highlighted": false,
       "reason": ""
     }
   ],
