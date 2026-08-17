@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-16T18:18:52.905Z",
+  "generatedAt": "2026-08-17T00:53:46.681Z",
   "news": [
+    {
+      "title": "The SEC meeting that wasn't: State of Crypto",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
       "source": "Francisco Rodrigues",
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
@@ -62,13 +69,6 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
-      "highlighted": false,
       "reason": ""
     }
   ],
