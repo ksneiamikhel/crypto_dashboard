@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-08-17T06:40:18.381Z",
+  "generatedAt": "2026-08-17T12:30:42.886Z",
   "news": [
     {
-      "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+      "title": "No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
+      "title": "Ethereum’s next big upgrade has 66 proposals, including a major privacy fix",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
+      "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "The SEC meeting that wasn't: State of Crypto",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "title": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+      "url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers",
       "highlighted": false,
-      "reason": ""
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+      "title": "Bitcoin options remain expensive despite summer calm. Here's why it matters",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
+      "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitpanda fined 70,000 euros in Austria’s first published MiCA enforcement case",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
       "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+      "highlighted": true,
       "reason": ""
     }
   ],
