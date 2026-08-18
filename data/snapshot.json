@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-08-18T06:31:57.599Z",
+  "generatedAt": "2026-08-18T12:32:41.848Z",
   "news": [
+    {
+      "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin holds $64,000 as surging yields and rising oil drain risk appetite",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "The bitcoin price level where leveraged bulls could get whacked",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
-      "title": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
+      "title": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Bitcoin climbs above $64,000 while most majors slip",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "The Coldcard hack proves reputation is not a security model",
-      "source": "Zach Herbert",
-      "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
-      "highlighted": false,
       "reason": ""
     }
   ],
