@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-17T18:28:33.001Z",
+  "generatedAt": "2026-08-18T00:51:58.367Z",
   "news": [
+    {
+      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
       "source": "Olivier Acuna",
@@ -13,14 +27,14 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "The Coldcard hack proves reputation is not a security model",
@@ -55,20 +69,6 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin options remain expensive despite summer calm. Here's why it matters",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
-      "highlighted": true,
       "reason": ""
     }
   ],
