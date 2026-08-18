@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-08-18T00:51:58.367Z",
+  "generatedAt": "2026-08-18T06:31:57.599Z",
   "news": [
+    {
+      "title": "The bitcoin price level where leveraged bulls could get whacked",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin climbs above $64,000 while most majors slip",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
       "source": "Will Canny",
       "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
@@ -40,34 +68,6 @@
       "title": "The Coldcard hack proves reputation is not a security model",
       "source": "Zach Herbert",
       "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ethereum’s next big upgrade has 66 proposals, including a major privacy fix",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
       "highlighted": false,
       "reason": ""
     }
