@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-08-18T18:28:00.953Z",
+  "generatedAt": "2026-08-19T00:52:46.515Z",
   "news": [
+    {
+      "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/18/r",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin miners’ AI pivot pays off, but mining could revive with one twist",
@@ -40,34 +68,6 @@
       "title": "Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/08/18/japan-s-metaplanet-launching-u-s-bitcoin-treasury-company-through-usd135-million-nanocap-deal",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto’s easy-money era is ending in a wave of failures",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
       "highlighted": true,
       "reason": ""
     }
