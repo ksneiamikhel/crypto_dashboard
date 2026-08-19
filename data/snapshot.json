@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-08-19T00:52:46.515Z",
+  "generatedAt": "2026-08-19T06:32:43.395Z",
   "news": [
+    {
+      "title": "Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/18/r",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
@@ -47,27 +68,6 @@
       "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin miners’ AI pivot pays off, but mining could revive with one twist",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Global bond yields surge as debt fears test bitcoin’s hedge narrative",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/18/japan-s-metaplanet-launching-u-s-bitcoin-treasury-company-through-usd135-million-nanocap-deal",
       "highlighted": true,
       "reason": ""
     }
