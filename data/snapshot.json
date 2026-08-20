@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-08-19T18:24:30.004Z",
+  "generatedAt": "2026-08-20T00:52:21.373Z",
   "news": [
+    {
+      "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
@@ -47,27 +68,6 @@
       "title": "HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Cantor opens Kalshi prediction markets to thousands of institutional clients",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/08/19/cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Strengthen the Clarity Act",
-      "source": "Rob Nichols",
-      "url": "https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act",
       "highlighted": false,
       "reason": ""
     }
