@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-08-20T12:35:01.379Z",
+  "generatedAt": "2026-08-20T18:29:04.437Z",
   "news": [
+    {
+      "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Crypto for Advisors: What are tokenized deposits?",
+      "source": "Laurie Rosini",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
@@ -47,27 +68,6 @@
       "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin hits $72,000 as Strategy and Coinbase continue rally",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin rises to $72,000; ETF inflows of $700 million were largest in months",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
       "highlighted": false,
       "reason": ""
     }
