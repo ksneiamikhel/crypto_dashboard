@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-08-20T06:35:14.544Z",
+  "generatedAt": "2026-08-20T12:35:01.379Z",
   "news": [
     {
-      "title": "Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
+      "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin hits $72,000 as Strategy and Coinbase continue rally",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin rises to $72,000; ETF inflows of $700 million were largest in months",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
+      "reason": ""
     },
     {
       "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
-      "highlighted": true,
       "reason": ""
     }
   ],
