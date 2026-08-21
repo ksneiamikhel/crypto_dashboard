@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-21T12:33:30.605Z",
+  "generatedAt": "2026-08-21T18:27:20.587Z",
   "news": [
+    {
+      "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
       "source": "Shaurya Malwa",
@@ -20,7 +27,7 @@
       "source": "Hermine Wong",
       "url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
@@ -61,13 +68,6 @@
       "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
       "highlighted": true,
       "reason": ""
     }
