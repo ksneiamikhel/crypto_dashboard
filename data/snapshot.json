@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-08-21T06:35:14.817Z",
+  "generatedAt": "2026-08-21T12:33:30.605Z",
   "news": [
+    {
+      "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
+      "source": "Hermine Wong",
+      "url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/21/strategy-sits-on-usd1-4-billion-profit-on-bitcoin-holdings-as-price-surges",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Bitcoin pushes past $75,000 as rally continues.",
-      "source": "Stephen Alpher",
-      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto for Advisors: What are tokenized deposits?",
-      "source": "Laurie Rosini",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
-      "highlighted": false,
       "reason": ""
     }
   ],
