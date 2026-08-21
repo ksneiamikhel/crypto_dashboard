@@ -1,26 +1,61 @@
 {
-  "generatedAt": "2026-08-21T00:55:40.514Z",
+  "generatedAt": "2026-08-21T06:35:14.817Z",
   "news": [
+    {
+      "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin pushes past $75,000 as rally continues.",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto for Advisors: What are tokenized deposits?",
@@ -33,41 +68,6 @@
       "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
       "highlighted": false,
       "reason": ""
     }
