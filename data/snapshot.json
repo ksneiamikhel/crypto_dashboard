@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-20T18:29:04.437Z",
+  "generatedAt": "2026-08-21T00:55:40.514Z",
   "news": [
+    {
+      "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
       "source": "Helene Braun",
@@ -20,7 +27,7 @@
       "source": "Laurie Rosini",
       "url": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
@@ -61,13 +68,6 @@
       "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
       "source": "Ian Allison",
       "url": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
       "highlighted": false,
       "reason": ""
     }
