@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-22T06:28:29.292Z",
+  "generatedAt": "2026-08-22T12:25:33.532Z",
   "news": [
+    {
+      "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
+      "source": "Aoyon Ashraf",
+      "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
       "source": "Shaurya Malwa",
@@ -20,7 +27,7 @@
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Pass the Clarity Act",
@@ -61,13 +68,6 @@
       "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
       "highlighted": true,
       "reason": ""
     }
