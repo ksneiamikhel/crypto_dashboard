@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-21T18:27:20.587Z",
+  "generatedAt": "2026-08-22T00:52:45.700Z",
   "news": [
+    {
+      "title": "Crypto advocates join in suing Illinois over digital asset tax",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Pass the Clarity Act",
+      "source": "Summer Mersinger",
+      "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
       "source": "Oliver Knight",
@@ -13,14 +27,14 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
@@ -54,20 +68,6 @@
       "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/21/strategy-sits-on-usd1-4-billion-profit-on-bitcoin-holdings-as-price-surges",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
       "highlighted": true,
       "reason": ""
     }
