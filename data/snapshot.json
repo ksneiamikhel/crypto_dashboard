@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-08-22T00:52:45.700Z",
+  "generatedAt": "2026-08-22T06:28:29.292Z",
   "news": [
+    {
+      "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Crypto advocates join in suing Illinois over digital asset tax",
       "source": "Jesse Hamilton",
@@ -13,14 +27,14 @@
       "source": "Summer Mersinger",
       "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
@@ -54,20 +68,6 @@
       "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
       "highlighted": true,
       "reason": ""
     }
