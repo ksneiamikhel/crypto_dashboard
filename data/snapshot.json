@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-08-23T12:26:13.178Z",
+  "generatedAt": "2026-08-23T18:19:46.820Z",
   "news": [
+    {
+      "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
       "source": "Will Canny",
       "url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
@@ -47,27 +68,6 @@
       "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto advocates join in suing Illinois over digital asset tax",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Pass the Clarity Act",
-      "source": "Summer Mersinger",
-      "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
       "highlighted": true,
       "reason": ""
     }
