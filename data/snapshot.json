@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-08-24T06:42:59.892Z",
+  "generatedAt": "2026-08-24T12:35:41.685Z",
   "news": [
     {
-      "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
+      "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Ray Dalio says investors should own ‘a bit of Bitcoin’ as U.S. debt risks rise",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/24/ray-dalio-says-investors-should-own-a-bit-of-bitcoin-as-u-s-debt-risks-rise",
+      "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
+      "title": "Financial repression: The new buzzword for bitcoin bulls",
       "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
-      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+      "title": "Gemini strikes Apex deal to widen prediction markets reach",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
+      "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Jackson Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin climbs past $78,000 early Monday, with gold topping $4,700",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Regulation Crypto is here: State of Crypto",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+      "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
-      "highlighted": false,
       "reason": ""
     }
   ],
