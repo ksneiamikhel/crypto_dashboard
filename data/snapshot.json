@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-08-24T12:35:41.685Z",
+  "generatedAt": "2026-08-24T18:30:27.082Z",
   "news": [
+    {
+      "title": "Crypto political group details list of U.S. congressional allies its backing this year",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Financial repression: The new buzzword for bitcoin bulls",
@@ -40,34 +68,6 @@
       "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/08/24/fed-experiment-shows-how-bitcoin-rallies-attract-new-crypto-buyers",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Jackson Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin climbs past $78,000 early Monday, with gold topping $4,700",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
       "highlighted": true,
       "reason": ""
     }
