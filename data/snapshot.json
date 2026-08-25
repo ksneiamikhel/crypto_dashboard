@@ -1,26 +1,61 @@
 {
-  "generatedAt": "2026-08-25T12:36:04.791Z",
+  "generatedAt": "2026-08-25T18:30:30.952Z",
   "news": [
+    {
+      "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+      "source": "Mateusz Kara",
+      "url": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
       "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
+      "reason": ""
     },
     {
       "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
@@ -33,41 +68,6 @@
       "title": "Bitcoin extends 7-day advance to roughly 25%",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
       "highlighted": true,
       "reason": ""
     }
