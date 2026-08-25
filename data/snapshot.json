@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-24T18:30:27.082Z",
+  "generatedAt": "2026-08-25T00:54:46.201Z",
   "news": [
+    {
+      "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Crypto political group details list of U.S. congressional allies its backing this year",
       "source": "Jesse Hamilton",
@@ -20,7 +27,7 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
@@ -62,13 +69,6 @@
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
-      "highlighted": true,
       "reason": ""
     }
   ],
