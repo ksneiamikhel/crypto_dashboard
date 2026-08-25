@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-08-25T06:34:58.352Z",
+  "generatedAt": "2026-08-25T12:36:04.791Z",
   "news": [
     {
-      "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
+      "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
     },
     {
-      "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
+      "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
       "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
+      "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
+      "title": "Bitcoin extends 7-day advance to roughly 25%",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Crypto political group details list of U.S. congressional allies its backing this year",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
+      "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
+      "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+      "title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+      "title": "Live updates: Bitcoin rejected at $81,000 as 50-week moving average caps rally",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+      "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
+      "title": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
       "highlighted": true,
       "reason": ""
     }
