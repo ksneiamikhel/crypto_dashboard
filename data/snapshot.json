@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-08-25T00:54:46.201Z",
+  "generatedAt": "2026-08-25T06:34:58.352Z",
   "news": [
+    {
+      "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto political group details list of U.S. congressional allies its backing this year",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
@@ -41,34 +69,6 @@
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Financial repression: The new buzzword for bitcoin bulls",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Gemini strikes Apex deal to widen prediction markets reach",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
-      "highlighted": false,
       "reason": ""
     }
   ],
