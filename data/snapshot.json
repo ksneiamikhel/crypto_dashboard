@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-08-25T18:30:30.952Z",
+  "generatedAt": "2026-08-26T00:55:36.909Z",
   "news": [
+    {
+      "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Zerohash back for second effort at OCC trust bank charter",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
       "source": "Ian Allison",
       "url": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
@@ -47,27 +68,6 @@
       "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "A bitcoin short squeeze for the ages as futures open interest collapses",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin extends 7-day advance to roughly 25%",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
       "highlighted": true,
       "reason": ""
     }
