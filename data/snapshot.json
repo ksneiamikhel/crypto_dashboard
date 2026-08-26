@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-08-26T12:38:37.119Z",
+  "generatedAt": "2026-08-26T19:41:57.216Z",
   "news": [
+    {
+      "title": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto Long & Short: Tokenized equities: the model underneath the trade",
+      "source": "Joshua de Vos",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/26/crypto-long-and-short-tokenized-equities-the-model-underneath-the-trade",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "The evidence doesn't support the banks' case against stablecoin rewards",
+      "source": "Faryar Shirzad",
+      "url": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "The 3 catalysts that could define bitcoin's next move",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
@@ -40,34 +68,6 @@
       "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Japan to start stocks and bonds tokenization development plans this year",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin flat near $78,500 ahead of inflation data, Nvidia earnings",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/26/E",
       "highlighted": true,
       "reason": ""
     }
