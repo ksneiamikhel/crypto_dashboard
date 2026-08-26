@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-08-26T06:37:07.731Z",
+  "generatedAt": "2026-08-26T12:38:37.119Z",
   "news": [
+    {
+      "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "The 3 catalysts that could define bitcoin's next move",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Japan to start stocks and bonds tokenization development plans this year",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin flat near $78,500 ahead of inflation data, Nvidia earnings",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/08/26/E",
       "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
-    },
-    {
-      "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Zerohash back for second effort at OCC trust bank charter",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
-      "highlighted": false,
       "reason": ""
     }
   ],
