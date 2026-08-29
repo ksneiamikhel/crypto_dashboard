@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-08-29T12:06:15.573Z",
+  "generatedAt": "2026-08-29T20:16:39.121Z",
   "news": [
+    {
+      "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Tokenized assets are busier than the data shows",
+      "source": "Matthew Fisher",
+      "url": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
@@ -40,34 +68,6 @@
       "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
       "source": "Stephen Alpher",
       "url": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "The Clarity Act slipped to September. Banks are building anyway",
-      "source": "Vassilis Tziokas",
-      "url": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin is outperforming stocks and correlating with gold just when it matters most",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/28/bitcoin-is-outperforming-stocks-and-correlating-with-gold-just-when-it-matters-most",
       "highlighted": true,
       "reason": ""
     }
