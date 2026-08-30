@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-08-30T11:02:03.507Z",
+  "generatedAt": "2026-08-30T15:51:43.952Z",
   "news": [
+    {
+      "title": "Michael Saylor hints at first bitcoin purchase in two months as Bitcoin nears $79,000",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
@@ -47,27 +68,6 @@
       "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
       "highlighted": false,
       "reason": ""
     }
