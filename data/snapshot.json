@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-08-29T20:16:39.121Z",
+  "generatedAt": "2026-08-30T03:00:41.748Z",
   "news": [
+    {
+      "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
       "source": "Jamie Crawley",
@@ -9,7 +16,7 @@
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Swift’s $1.5 quadrillion network faces a blockchain test",
+      "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
       "highlighted": true,
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Tokenized assets are busier than the data shows",
@@ -30,7 +37,7 @@
       "reason": ""
     },
     {
-      "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+      "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
       "highlighted": true,
@@ -62,13 +69,6 @@
       "source": "Ian Allison",
       "url": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
-      "source": "Stephen Alpher",
-      "url": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
-      "highlighted": true,
       "reason": ""
     }
   ],
