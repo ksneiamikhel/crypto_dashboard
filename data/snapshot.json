@@ -1,26 +1,61 @@
 {
-  "generatedAt": "2026-08-31T12:24:24.296Z",
+  "generatedAt": "2026-08-31T22:16:27.689Z",
   "news": [
     {
-      "title": "Strategy returns to bitcoin buys, adding $370 million worth last week",
+      "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Kalshi lays down first lifetime ban for ex-member of Congress George Santos",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/08/31/kalshi-lays-down-first-lifetime-ban-for-ex-member-of-congress-george-santos",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Ireland bars crypto from new tax-advantaged investment accounts",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/08/31/ireland-bars-crypto-from-new-tax-advantaged-investment-accounts",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Strategy returns to bitcoin buys, adding $370 million of BTC last week",
       "source": "Stephen Alpher",
       "url": "https://www.coindesk.com/markets/2026/08/31/strategy-returns-to-bitcoin-buys-adding-usd370-million-worth-last-week",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Robinhood Chain beats Ethereum in daily revenue as memecoin trading takes over",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/08/31/robinhood-chain-beats-ethereum-in-daily-revenue-as-memecoin-trading-takes-over",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/08/31/sberbank-plans-to-add-ether-and-usdt-as-collateral-for-crypto-backed-loans",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Here's 1 metric on U.S. debt that makes bitcoin's bull case look stronger than ever",
@@ -33,41 +68,6 @@
       "title": "U.S. strikes on Iran fail to stir bitcoin, on track for best month since November 2024",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/markets/2026/08/31/u-s-strikes-on-iran-fail-to-stir-bitcoin-on-track-for-best-month-since-november-2024",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin holds $78,000, ether forms bullish golden cross",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Luke Dashjr exits mining pool Ocean after split over Bitcoin mining’s future",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/31/luke-dashjr-exits-mining-pool-ocean-after-split-over-bitcoin-mining-s-future",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/08/31/september-fed-rate-hike-fears-appear-overblown-as-the-probability-is-just-58-not-90",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
       "highlighted": true,
       "reason": ""
     }
