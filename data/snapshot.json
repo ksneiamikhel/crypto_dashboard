@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-01T10:55:50.662Z",
+  "generatedAt": "2026-09-01T15:55:36.358Z",
   "news": [
+    {
+      "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Musk’s X hit by wave of unsolicited password reset emails",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "UK’s crime agency freezes Premier League $13.5 million account in crypto crime probe",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/01/uk-s-crime-agency-freezes-premier-league-usd13-5-million-account-in-crypto-crime-probe",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "U.S. looks to influence Japan's monetary policy. It couldn't do that with bitcoin",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/01/u-s-looks-to-influence-japan-s-monetary-policy-it-couldn-t-do-that-with-bitcoin",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Live updates: Bitcoin trades around $78,000 as global bond sell-off deepens",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/01/time-is-putting-openai-s-founders-on-its-cover-paul-montgomery-s-contrary-indicator-says-hello",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
-      "highlighted": false,
       "reason": ""
     }
   ],
