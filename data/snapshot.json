@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-01T20:23:18.563Z",
+  "generatedAt": "2026-09-02T02:23:13.817Z",
   "news": [
+    {
+      "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
       "source": "Francisco Rodrigues",
@@ -20,7 +27,7 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
@@ -61,13 +68,6 @@
       "title": "U.S. looks to influence Japan's monetary policy. It couldn't do that with bitcoin",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/09/01/u-s-looks-to-influence-japan-s-monetary-policy-it-couldn-t-do-that-with-bitcoin",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
       "highlighted": true,
       "reason": ""
     }
