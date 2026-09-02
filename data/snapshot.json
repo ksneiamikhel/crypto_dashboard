@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-09-02T15:47:26.678Z",
+  "generatedAt": "2026-09-02T20:23:27.890Z",
   "news": [
+    {
+      "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
       "source": "Varun Datta",
       "url": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "The token supercycle: everything of value is becoming programmable",
       "source": "Lily Liu",
       "url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
@@ -48,27 +69,6 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-slips-below-usd77-000-as-u-s-strikes-on-iran-send-oil-above-usd93",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/02/former-uk-prime-minister-liz-truss-says-bond-rout-could-force-emergency-spending-cuts",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin trades near $77,000, with central bank policy rate decisions taking center stage",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
-      "highlighted": true,
       "reason": ""
     }
   ],
