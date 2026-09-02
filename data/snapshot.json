@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-02T02:23:13.817Z",
+  "generatedAt": "2026-09-02T10:23:12.712Z",
   "news": [
+    {
+      "title": "Live updates: BlackRock's IBIT drives $236 million bitcoin ETF outflow",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "XRP ETFs pull in $170 million over eleven days. Goldman tops institutional holders",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/02/xrp-etfs-pull-in-usd160-million-over-nine-days-as-goldman-tops-institutional-holders",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/02/a-china-indicator-that-greases-risk-taking-in-stocks-and-bitcoin-is-flashing-red",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "OpenAI says its new 'Astra' AI can build attacks without human help",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Musk’s X hit by wave of unsolicited password reset emails",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "UK’s crime agency freezes Premier League $13.5 million account in crypto crime probe",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/01/uk-s-crime-agency-freezes-premier-league-usd13-5-million-account-in-crypto-crime-probe",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. looks to influence Japan's monetary policy. It couldn't do that with bitcoin",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/01/u-s-looks-to-influence-japan-s-monetary-policy-it-couldn-t-do-that-with-bitcoin",
       "highlighted": true,
       "reason": ""
     }
