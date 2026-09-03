@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-03T02:30:06.003Z",
+  "generatedAt": "2026-09-03T10:31:37.417Z",
   "news": [
+    {
+      "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/03/catastrophe-bonds-may-join-tokenization-rush-with-plans-for-test-issuance-in-2027",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
-      "source": "Varun Datta",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "The token supercycle: everything of value is becoming programmable",
-      "source": "Lily Liu",
-      "url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/08/29/capital-b-aims-to-add-376-btc-to-bitcoin-treasury-following-usd8-8-million-adam-back-investment",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall",
-      "highlighted": true,
       "reason": ""
     }
   ],
