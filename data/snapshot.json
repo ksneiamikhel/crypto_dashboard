@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-02T20:23:27.890Z",
+  "generatedAt": "2026-09-03T02:30:06.003Z",
   "news": [
+    {
+      "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
       "source": "Will Canny",
@@ -20,7 +27,7 @@
       "source": "Nikhilesh De",
       "url": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
@@ -62,13 +69,6 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
-      "highlighted": false,
       "reason": ""
     }
   ],
