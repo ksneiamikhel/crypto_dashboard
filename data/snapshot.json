@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-03T15:36:56.623Z",
+  "generatedAt": "2026-09-03T20:22:52.112Z",
   "news": [
+    {
+      "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
       "source": "Kriti Bansal",
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
@@ -44,7 +51,7 @@
       "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin jumps above $80,000 as rates fall, dollar weakens",
+      "title": "Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
       "highlighted": true,
@@ -62,13 +69,6 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
-      "highlighted": true,
       "reason": ""
     }
   ],
