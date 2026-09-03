@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-03T10:31:37.417Z",
+  "generatedAt": "2026-09-03T15:36:56.623Z",
   "news": [
+    {
+      "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
+      "source": "Kriti Bansal",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "FX has stopped reading bond yields the old way. Bitcoin should too.",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "The yen is surging and it’s helping bitcoin, for now",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin jumps above $80,000 as rates fall, dollar weakens",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/03/catastrophe-bonds-may-join-tokenization-rush-with-plans-for-test-issuance-in-2027",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
-      "highlighted": false,
       "reason": ""
     }
   ],
