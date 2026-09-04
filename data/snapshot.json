@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-04T10:20:56.386Z",
+  "generatedAt": "2026-09-04T15:35:26.788Z",
   "news": [
+    {
+      "title": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "South Korea targets February 2027 rollout for full tokenized securities market",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin ETFs take $731 million, their biggest day since January",
+      "title": "Live updates: Bitcoin tumbles after blowout August jobs print",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
       "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
-    },
-    {
-      "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "One full bitcoin now buys a little more than 18 ounces of gold, the most since January",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/04/one-full-bitcoin-now-buys-a-little-more-than-18-ounces-of-gold-the-most-since-january",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin back above $81,000 as hike odds fade, Zcash leads with 15% jump",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-back-above-usd81-000-as-hike-odds-fade-zcash-leads-with-15-jump",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "AMC CEO blasts Robinhood for stock token, putting synthetic shares in spotlight",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
-      "source": "Kriti Bansal",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
-      "highlighted": false,
       "reason": ""
     }
   ],
