@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-05T02:27:15.165Z",
+  "generatedAt": "2026-09-05T09:48:24.860Z",
   "news": [
+    {
+      "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
       "source": "Krisztian Sandor",
@@ -13,14 +27,14 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
@@ -54,20 +68,6 @@
       "title": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "South Korea targets February 2027 rollout for full tokenized securities market",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin tumbles after blowout August jobs print",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
       "highlighted": true,
       "reason": ""
     }
