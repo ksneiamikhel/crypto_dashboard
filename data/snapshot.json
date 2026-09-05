@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-05T14:23:11.503Z",
+  "generatedAt": "2026-09-05T19:47:39.115Z",
   "news": [
+    {
+      "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
       "source": "Francisco Rodrigues",
@@ -13,14 +27,14 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
@@ -54,20 +68,6 @@
       "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
       "highlighted": true,
       "reason": ""
     }
