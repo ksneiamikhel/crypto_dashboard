@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-06T14:45:06.817Z",
+  "generatedAt": "2026-09-06T19:51:47.455Z",
   "news": [
+    {
+      "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
       "source": "Francisco Rodrigues",
@@ -13,14 +27,14 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
@@ -55,20 +69,6 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
-      "highlighted": false,
       "reason": ""
     }
   ],
