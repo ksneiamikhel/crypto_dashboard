@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-07T11:18:11.220Z",
+  "generatedAt": "2026-09-07T17:01:50.487Z",
   "news": [
+    {
+      "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Solana to triple transaction size as apps get room for more complex trades",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "DBS and Citi complete weekend USD payment via Swift’s Digital Ledger using tokenized deposits",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/07/dbs-and-citi-enable-instant-24-7-cross-border-tokenised-deposit-payments-on-the-swift-ledger",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Bitcoin blinks less than gold when Treasury yields move",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/09/07/bitcoin-blinks-less-than-gold-when-treasury-yields-move",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "UK regulator weighs easing financial prediction market ban: Times",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/policy/2026/09/07/uk-regulator-weighs-easing-financial-prediction-market-ban-times",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Weekend altcoin rally runs out of road as bitcoin slips",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/09/07/weekend-altcoin-rally-runs-out-of-road-as-bitcoin-slips",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin struggles at $83,000 sell wall as whales distribution flip into net selling",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-investors-turn-to-selling-as-usd83-000-resistance-holds",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Coldcard hacker moves $7.7 million in BTC, 45% of bitcoin stolen in third attack wave",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/09/07/coldcard-hacker-moves-45-of-bitcoin-stolen-in-third-attack-wave",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "No, Friday's jobs report hasn't materially boosted Fed rate hike odds",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/07/no-friday-s-jobs-report-hasn-t-materially-boost-fed-rate-hike-odds",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
       "highlighted": true,
       "reason": ""
     }
