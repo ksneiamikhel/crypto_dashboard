@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-08T10:25:09.178Z",
+  "generatedAt": "2026-09-08T15:48:51.830Z",
   "news": [
     {
-      "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
+      "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
       "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
+      "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/tech/2026/09/08/tracking-cocoa-may-be-just-the-beginning-for-pwc-merck-hashgraph-provenance-system",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Live updates: Yen rally and rising bond yields pressure bitcoin and risk assets",
+      "title": "Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform",
       "source": "James Van Straten",
-      "url": "https://www.coindesk.com/tech/2026/09/08/live-updates",
+      "url": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
+      "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
+      "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Bitcoin’s golden cross is here",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
+      "title": "Bitcoin’s complexity paradox: How layer-2 scalers became AI's main target",
       "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
+      "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-security-risks-grow-as-ai-uncovers-hidden-vulnerabilities",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
+      "title": "Bitcoin ETFs are still $1 billion shy of breaking even in 2026",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/08/bitcoin-etfs-are-still-usd1-billion-shy-of-breaking-even-in-2026",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
       "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Cronos executes controversial blockchain rollback to recover crypto worth $111 million",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/08/cronos-executes-controversial-blockchain-rollback-to-recover-crypto-worth-usd111-million",
+      "highlighted": true,
       "reason": ""
     }
   ],
