@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-08T02:32:52.459Z",
+  "generatedAt": "2026-09-08T10:25:09.178Z",
   "news": [
+    {
+      "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/tech/2026/09/08/tracking-cocoa-may-be-just-the-beginning-for-pwc-merck-hashgraph-provenance-system",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Live updates: Yen rally and rising bond yields pressure bitcoin and risk assets",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/tech/2026/09/08/live-updates",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin’s golden cross is here",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Solana to triple transaction size as apps get room for more complex trades",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "DBS and Citi complete weekend USD payment via Swift’s Digital Ledger using tokenized deposits",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/07/dbs-and-citi-enable-instant-24-7-cross-border-tokenised-deposit-payments-on-the-swift-ledger",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin blinks less than gold when Treasury yields move",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/07/bitcoin-blinks-less-than-gold-when-treasury-yields-move",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "UK regulator weighs easing financial prediction market ban: Times",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/policy/2026/09/07/uk-regulator-weighs-easing-financial-prediction-market-ban-times",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps",
       "highlighted": false,
       "reason": ""
     }
