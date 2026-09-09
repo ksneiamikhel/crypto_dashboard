@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-09T02:34:08.303Z",
+  "generatedAt": "2026-09-09T10:35:18.582Z",
   "news": [
+    {
+      "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "India’s financial intelligence unit flags 15 crypto platforms for AML lapses",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Live updates: Brent crude hits $100 for first time since July as bitcoin trades around $79,000",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "AI could kill us, Anthropic researcher says after resigning",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a ‘grift’",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Moonshot’s Kimi rattled markets. U.S. agencies now say it was trained on American models",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
       "source": "Ian Allison",
       "url": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Strive’s SATA nears $1 billion market cap as Strategy’s STRC continues to underperform",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin rally has more room as volatility shorts unwind, Two Prime CEO says",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-rally-has-more-room-as-volatility-shorts-unwind-two-prime-ceo-says",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitmine purchased another $69 million of ETH, with Tom DeMark expecting price uptrend to soon resume",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/08/bitmine-purchased-another-usd69-million-of-eth-with-tom-demark-expecting-price-uptrend-to-soon-resume",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin’s complexity paradox: How layer-2 scalers became AI's main target",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-security-risks-grow-as-ai-uncovers-hidden-vulnerabilities",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin ETFs are still $1 billion shy of breaking even in 2026",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/08/bitcoin-etfs-are-still-usd1-billion-shy-of-breaking-even-in-2026",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
       "highlighted": false,
       "reason": ""
     }
