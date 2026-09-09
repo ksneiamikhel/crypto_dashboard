@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-09-09T15:44:46.746Z",
+  "generatedAt": "2026-09-09T20:16:51.991Z",
   "news": [
+    {
+      "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Crypto Long & Short: Inside the 300-to-1 onchain gap between the dollar and euro",
       "source": "Ryan Connor",
       "url": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
@@ -48,27 +69,6 @@
       "source": "Laz Pieper",
       "url": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Algorand names former Chainlink executive William Herkelrath as CEO",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
-      "highlighted": true,
       "reason": ""
     }
   ],
