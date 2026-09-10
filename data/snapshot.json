@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-10T10:23:23.504Z",
+  "generatedAt": "2026-09-10T15:39:41.529Z",
   "news": [
     {
-      "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
+      "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Live updates: Treasury yields climb further as Brent crude tops $102 and tech futures slip",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
-      "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
-    },
-    {
-      "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
+      "title": "Crypto for Advisors: Hyperliquid and the future of finance",
+      "source": "Kim Greenberg Klemballa",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
       "highlighted": false,
-      "reason": ""
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
+      "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
       "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+      "url": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+      "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
+      "source": "Rich Graham",
+      "url": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+      "url": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
       "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/10/ai-s-rapid-rise-poses-global-financial-stability-risks-says-head-of-the-bis",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
+      "highlighted": false,
       "reason": ""
     }
   ],
