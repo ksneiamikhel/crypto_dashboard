@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-10T02:35:34.360Z",
+  "generatedAt": "2026-09-10T10:23:23.504Z",
   "news": [
+    {
+      "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Live updates: Treasury yields climb further as Brent crude tops $102 and tech futures slip",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Hunter Biden’s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Tether pushes into private credit with $400 million fund with Fasanara",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto Long & Short: Inside the 300-to-1 onchain gap between the dollar and euro",
-      "source": "Ryan Connor",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "PayPal expands stablecoin rails with custom token issuance platform",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
-      "source": "Laz Pieper",
-      "url": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
-      "highlighted": false,
       "reason": ""
     }
   ],
