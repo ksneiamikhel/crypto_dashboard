@@ -1,26 +1,61 @@
 {
-  "generatedAt": "2026-09-10T15:39:41.529Z",
+  "generatedAt": "2026-09-10T20:18:55.734Z",
   "news": [
+    {
+      "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto for Advisors: Hyperliquid and the future of finance",
       "source": "Kim Greenberg Klemballa",
       "url": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
@@ -33,41 +68,6 @@
       "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
       "source": "Rich Graham",
       "url": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/10/ai-s-rapid-rise-poses-global-financial-stability-risks-says-head-of-the-bis",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto exchange giant Bybit to offer European ‘super-app’ with stocks, derivatives",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
       "highlighted": false,
       "reason": ""
     }
