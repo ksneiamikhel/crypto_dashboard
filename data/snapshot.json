@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-11T15:41:22.151Z",
+  "generatedAt": "2026-09-11T20:19:17.771Z",
   "news": [
+    {
+      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "With Fed rate hike all but assured, here's how markets might react",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "India's richest state is exploring tokenizing its own assets to fund new infrastructure",
       "source": "Omkar Godbole",
@@ -13,14 +27,14 @@
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Zodia Custody CEO Julian Sawyer steps down, becomes adviser",
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike",
@@ -37,7 +51,7 @@
       "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin heads higher as investors look past looming Fed rate hike",
+      "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
       "highlighted": true,
@@ -54,20 +68,6 @@
       "title": "Bitcoin pulls back as another golden cross fails to deliver",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
       "highlighted": true,
       "reason": ""
     }
