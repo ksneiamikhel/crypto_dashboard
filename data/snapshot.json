@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-10T20:18:55.734Z",
+  "generatedAt": "2026-09-11T02:29:19.839Z",
   "news": [
+    {
+      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
       "source": "Krisztian Sandor",
@@ -20,7 +27,7 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
@@ -30,7 +37,7 @@
       "reason": ""
     },
     {
-      "title": "Monument Bank delays retail tokenized deposits, cites regulatory issues in the UK",
+      "title": "Monument Bank delays retail tokenized deposits while onboarding custody partner",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/09/10/monument-bank-delays-retail-tokenized-deposits-cites-regulatory-issues-in-the-uk",
       "highlighted": true,
@@ -61,13 +68,6 @@
       "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
-      "source": "Rich Graham",
-      "url": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
       "highlighted": false,
       "reason": ""
     }
