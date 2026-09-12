@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-09-12T14:48:47.992Z",
+  "generatedAt": "2026-09-12T20:00:20.533Z",
   "news": [
+    {
+      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Anthropic CEO calls for AI race to slow down. Musk and OpenAI's Altman agrees",
+      "source": "Aoyon Ashraf",
+      "url": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Staked ether should be seen as the benchmark of the decentralized economy",
       "source": "Ryan Haczynski",
       "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
@@ -41,34 +69,6 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Zodia Custody CEO Julian Sawyer steps down, becomes adviser",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/11/core-cpi-rose-a-faster-than-forecast-0-3-in-august-setting-up-fed-rate-hike",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report",
-      "highlighted": true,
       "reason": ""
     }
   ],
