@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-11T20:19:17.771Z",
+  "generatedAt": "2026-09-12T02:37:48.635Z",
   "news": [
+    {
+      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
       "source": "Jesse Hamilton",
@@ -20,7 +27,7 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
@@ -61,13 +68,6 @@
       "title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin pulls back as another golden cross fails to deliver",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-pulls-back-as-another-golden-cross-fails-to-deliver",
       "highlighted": true,
       "reason": ""
     }
