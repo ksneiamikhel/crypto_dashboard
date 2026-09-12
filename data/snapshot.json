@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-12T09:54:50.818Z",
+  "generatedAt": "2026-09-12T14:48:47.992Z",
   "news": [
+    {
+      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
+      "source": "Ryan Haczynski",
+      "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
       "source": "Helene Braun",
@@ -13,14 +27,14 @@
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "With Fed rate hike all but assured, here's how markets might react",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "India's richest state is exploring tokenizing its own assets to fund new infrastructure",
@@ -54,20 +68,6 @@
       "title": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin recovers toward $77,300 as zcash leverage unwinds",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/09/11/bitcoin-recovers-toward-usd77-300-as-zcash-leverage-unwinds",
       "highlighted": true,
       "reason": ""
     }
