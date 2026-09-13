@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-09-13T10:55:09.661Z",
+  "generatedAt": "2026-09-13T15:26:48.756Z",
   "news": [
+    {
+      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "OpenAI IPO won't happen this year, says Sam Altman",
       "source": "Stephen Alpher",
       "url": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
@@ -48,27 +69,6 @@
       "source": "Ryan Haczynski",
       "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
-      "highlighted": true,
       "reason": ""
     }
   ],
