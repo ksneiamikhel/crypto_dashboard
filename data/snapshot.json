@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-13T15:26:48.756Z",
+  "generatedAt": "2026-09-13T20:07:05.953Z",
   "news": [
+    {
+      "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
+      "source": "Muriel Médard",
+      "url": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Fed rate hike is about Wall Street, not inflation, says economist",
       "source": "Stephen Alpher",
@@ -13,14 +27,14 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "OpenAI IPO won't happen this year, says Sam Altman",
@@ -55,20 +69,6 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
-      "source": "Ryan Haczynski",
-      "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
-      "highlighted": false,
       "reason": ""
     }
   ],
