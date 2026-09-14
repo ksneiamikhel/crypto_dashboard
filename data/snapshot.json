@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-14T11:28:19.960Z",
+  "generatedAt": "2026-09-14T17:24:48.834Z",
   "news": [
     {
-      "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+      "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
       "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+      "url": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
       "highlighted": true,
-      "reason": ""
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
-      "source": "Muriel Médard",
-      "url": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-      "source": "Stephen Alpher",
-      "url": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+      "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
       "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+      "url": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Don’t let perfect be the enemy of Clarity",
+      "source": "Summer Mersinger",
+      "url": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
       "highlighted": false,
       "reason": ""
     }
