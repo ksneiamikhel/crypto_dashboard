@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-15T10:50:13.193Z",
+  "generatedAt": "2026-09-15T16:02:10.368Z",
   "news": [
+    {
+      "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "European Central Bank calls for merchants to participate in digital euro pilot",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
+      "source": "Shri Thanedar",
+      "url": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Why banks should stop worrying and learn to love the Clarity Act",
+      "source": "Alex Tapscott",
+      "url": "https://www.coindesk.com/opinion/2026/09/15/why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Nigel Farage-backed Stack BTC eyes $16 million gold dealer deal to fund bitcoin buy",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/business/2026/09/15/nigel-farage-backed-stack-btc-eyes-usd16-million-gold-dealer-deal-to-fund-bitcoin-buy",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin slides to $77,000 as Senate votes on Clarity Act",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Solana transactions just got more than 3 times bigger, narrowing the gap with Ethereum",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
       "highlighted": true,
       "reason": ""
     }
