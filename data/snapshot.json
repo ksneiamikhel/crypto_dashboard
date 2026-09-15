@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-09-15T16:02:10.368Z",
+  "generatedAt": "2026-09-15T20:44:56.596Z",
   "news": [
+    {
+      "title": "Crypto stocks sink after Senate rejects Clarity Act",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto industry reacts after Clarity Act fails Senate vote",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "European Central Bank calls for merchants to participate in digital euro pilot",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
@@ -41,34 +69,6 @@
       "source": "Shri Thanedar",
       "url": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Why banks should stop worrying and learn to love the Clarity Act",
-      "source": "Alex Tapscott",
-      "url": "https://www.coindesk.com/opinion/2026/09/15/why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
-      "highlighted": true,
       "reason": ""
     }
   ],
