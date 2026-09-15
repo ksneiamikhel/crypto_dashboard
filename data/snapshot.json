@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-09-14T21:17:20.648Z",
+  "generatedAt": "2026-09-15T02:55:00.056Z",
   "news": [
+    {
+      "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
@@ -47,27 +68,6 @@
       "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Don’t let perfect be the enemy of Clarity",
-      "source": "Summer Mersinger",
-      "url": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
       "highlighted": true,
       "reason": ""
     }
