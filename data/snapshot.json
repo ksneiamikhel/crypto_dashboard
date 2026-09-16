@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-16T10:39:24.574Z",
+  "generatedAt": "2026-09-16T15:55:33.616Z",
   "news": [
     {
-      "title": "Live updates: Zcash climbs 6% as majors slide ahead of Fed rate decision",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
+      "title": "Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
       "highlighted": true,
       "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "title": "Crypto Long & Short: Six signs a crypto winter is ending",
+      "source": "Denny Galindo",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+      "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
+      "url": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Ethereum, Base give up on common wallet standard after months of talks",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
+      "title": "A stolen coin can be returned. A leaked identity cannot.",
+      "source": "Evin McMullen",
+      "url": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
+      "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
+      "url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
       "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+      "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+      "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
       "highlighted": true,
       "reason": ""
     }
