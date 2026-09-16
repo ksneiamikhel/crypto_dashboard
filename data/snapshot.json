@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-16T02:50:13.489Z",
+  "generatedAt": "2026-09-16T10:39:24.574Z",
   "news": [
     {
-      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Crypto stocks sink after Senate rejects Clarity Act",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Crypto industry reacts after Clarity Act fails Senate vote",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
+      "title": "Live updates: Zcash climbs 6% as majors slide ahead of Fed rate decision",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
       "highlighted": true,
       "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+      "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
       "highlighted": true,
-      "reason": ""
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
+      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
+      "title": "Ethereum, Base give up on common wallet standard after months of talks",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
       "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "European Central Bank calls for merchants to participate in digital euro pilot",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
       "highlighted": true,
       "reason": ""
     }
