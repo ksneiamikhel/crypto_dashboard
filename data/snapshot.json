@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-15T20:44:56.596Z",
+  "generatedAt": "2026-09-16T02:50:13.489Z",
   "news": [
+    {
+      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Crypto stocks sink after Senate rejects Clarity Act",
       "source": "Helene Braun",
@@ -20,7 +27,7 @@
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
@@ -62,13 +69,6 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
-      "source": "Shri Thanedar",
-      "url": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
-      "highlighted": false,
       "reason": ""
     }
   ],
