@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-09-16T15:55:33.616Z",
+  "generatedAt": "2026-09-16T20:44:59.640Z",
   "news": [
     {
-      "title": "Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
       "source": "Ian Allison",
       "url": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto Long & Short: Six signs a crypto winter is ending",
       "source": "Denny Galindo",
       "url": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
@@ -41,34 +69,6 @@
       "source": "Evin McMullen",
       "url": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
-      "highlighted": true,
       "reason": ""
     }
   ],
