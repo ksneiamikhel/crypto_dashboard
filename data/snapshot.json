@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-17T10:48:28.379Z",
+  "generatedAt": "2026-09-17T16:01:30.205Z",
   "news": [
     {
-      "title": "Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
-      "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
-    },
-    {
-      "title": "Crypto rallies through the Fed's first rate increase since 2023",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
+      "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
       "highlighted": true,
       "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+      "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
       "highlighted": true,
       "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+      "title": "Crypto for Advisors: Beyond bitcoin and ether",
+      "source": "Glenn Williams Jr.",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Goldman pivots, now forecasts Fed rate hike in October",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+      "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
+      "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
       "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
+      "highlighted": false,
       "reason": ""
     }
   ],
