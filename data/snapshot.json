@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-17T02:54:03.411Z",
+  "generatedAt": "2026-09-17T10:48:28.379Z",
   "news": [
+    {
+      "title": "Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "Crypto rallies through the Fed's first rate increase since 2023",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Bitcoin faces 2022 parallels as Federal Reserve resumes rate increases",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Goldman pivots, now forecasts Fed rate hike in October",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Fed raises rates by 25 basis points in first hike since July 2023",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
       "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
-    },
-    {
-      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto Long & Short: Six signs a crypto winter is ending",
-      "source": "Denny Galindo",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "A stolen coin can be returned. A leaked identity cannot.",
-      "source": "Evin McMullen",
-      "url": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
-      "highlighted": false,
       "reason": ""
     }
   ],
