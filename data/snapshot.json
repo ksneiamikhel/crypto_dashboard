@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-17T16:01:30.205Z",
+  "generatedAt": "2026-09-17T20:50:00.702Z",
   "news": [
+    {
+      "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
       "source": "Olivier Acuna",
@@ -13,14 +27,14 @@
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto for Advisors: Beyond bitcoin and ether",
       "source": "Glenn Williams Jr.",
       "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
@@ -55,20 +69,6 @@
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
-      "highlighted": false,
       "reason": ""
     }
   ],
