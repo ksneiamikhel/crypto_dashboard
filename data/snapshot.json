@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-17T20:50:00.702Z",
+  "generatedAt": "2026-09-18T02:40:45.314Z",
   "news": [
+    {
+      "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+      "source": "Aoyon Ashraf",
+      "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
       "source": "Helene Braun",
@@ -13,14 +27,14 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
@@ -54,20 +68,6 @@
       "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
       "highlighted": true,
       "reason": ""
     }
