@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-18T10:23:26.157Z",
+  "generatedAt": "2026-09-18T15:37:14.507Z",
   "news": [
+    {
+      "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
+      "source": "Laz Pieper",
+      "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Zcash targets November upgrade to make private payments up to three times faster",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "XRP on the brink of a golden cross as focus switches to altcoins",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
-      "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
+      "title": "Live updates: Bitcoin climbs over $80,000 as rally accelerates at U.S. market open",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
-      "source": "Aoyon Ashraf",
-      "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
-      "highlighted": true,
       "reason": ""
     }
   ],
