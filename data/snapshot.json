@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-21T17:38:37.766Z",
+  "generatedAt": "2026-09-21T21:33:16.399Z",
   "news": [
+    {
+      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
       "source": "Jesse Hamilton",
@@ -13,14 +27,14 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
@@ -55,20 +69,6 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
-      "highlighted": false,
       "reason": ""
     }
   ],
