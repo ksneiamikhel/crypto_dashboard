@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-21T02:49:09.329Z",
+  "generatedAt": "2026-09-21T11:42:21.771Z",
   "news": [
     {
-      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+      "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
+      "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
       "highlighted": true,
-      "reason": ""
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-      "source": "Stephen Alpher",
-      "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+      "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
+      "url": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "X sues its own users for running a fake bitcoin news bot farm",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
       "highlighted": true,
       "reason": ""
     }
