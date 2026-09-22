@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-22T16:05:13.492Z",
+  "generatedAt": "2026-09-22T20:44:51.366Z",
   "news": [
+    {
+      "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
       "source": "Jesse Hamilton",
@@ -13,14 +27,14 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
@@ -55,20 +69,6 @@
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
-      "highlighted": false,
       "reason": ""
     }
   ],
