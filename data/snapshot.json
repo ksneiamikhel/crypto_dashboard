@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-22T02:49:52.179Z",
+  "generatedAt": "2026-09-22T10:46:17.821Z",
   "news": [
+    {
+      "title": "Live updates: Oil falls as Iran signals possible hormuz reopening, bitcoin holds near $86,000",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "ECB plans to buy tokenized bonds with its own funds",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
-      "highlighted": true,
       "reason": ""
     }
   ],
