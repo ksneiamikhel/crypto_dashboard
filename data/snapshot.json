@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-23T10:36:06.361Z",
+  "generatedAt": "2026-09-23T15:55:27.303Z",
   "news": [
+    {
+      "title": "Inside the FBI’s little-known annual crypto crime gathering",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+      "source": "Josh Olszewicz",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin slips as higher rates and dollar pressure markets",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "The S&P 500 has a 'breadth' problem. Crypto doesn’t.",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-consolidates-near-usd86-000-as-rally-narrows-and-brent-slips-below-usd100",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "BitMEX shuts down: perpetuals pioneer officially closes it doors after 11 years",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin's on a streak it hasn't hit since 2012",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
       "highlighted": true,
       "reason": ""
     }
