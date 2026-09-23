@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-23T02:50:39.812Z",
+  "generatedAt": "2026-09-23T10:36:06.361Z",
   "news": [
     {
-      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
+      "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-consolidates-near-usd86-000-as-rally-narrows-and-brent-slips-below-usd100",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
+      "title": "BitMEX shuts down: perpetuals pioneer officially closes it doors after 11 years",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
+      "url": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
+      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
-      "highlighted": true,
+      "url": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
+      "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
+      "title": "Bitcoin's on a streak it hasn't hit since 2012",
       "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
+      "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+      "url": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
       "highlighted": true,
       "reason": ""
     }
