@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-24T10:55:35.113Z",
+  "generatedAt": "2026-09-24T16:18:05.617Z",
   "news": [
     {
-      "title": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
+      "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
       "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/24/traders-are-pricing-in-4-fed-rate-hikes-as-bitcoin-slides-below-usd83-000",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+      "url": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
       "highlighted": false,
-      "reason": ""
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Kalshi says it is not being investigated by the CFTC over trading activity",
+      "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
       "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
+      "url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
       "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
+      "source": "Dovile Silenskyte",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
+      "highlighted": false,
       "reason": ""
     }
   ],
