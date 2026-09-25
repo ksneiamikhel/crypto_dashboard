@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-09-25T10:57:00.942Z",
+  "generatedAt": "2026-09-25T16:18:19.868Z",
   "news": [
+    {
+      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Tokenization is moving faster than Washington",
+      "source": "Andrew Cuomo",
+      "url": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Strategy proposes daily dividends to bring STRC back toward $100",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
-      "title": "Bitcoin ETFs have erased a $5.8 billion hole",
+      "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
       "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
+      "reason": ""
     },
     {
       "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gracy Chen says",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
-      "source": "Aoyon Ashraf",
-      "url": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
-      "highlighted": false,
       "reason": ""
     }
   ],
