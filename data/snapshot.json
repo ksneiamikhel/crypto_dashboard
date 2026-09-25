@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-09-24T21:01:15.719Z",
+  "generatedAt": "2026-09-25T02:57:00.510Z",
   "news": [
+    {
+      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+      "source": "Aoyon Ashraf",
+      "url": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "The stock token debate, and the gap nobody can close alone",
@@ -48,27 +69,6 @@
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
-      "source": "Dovile Silenskyte",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
-      "highlighted": false,
       "reason": ""
     }
   ],
