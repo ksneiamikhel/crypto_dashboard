@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-25T16:18:19.868Z",
+  "generatedAt": "2026-09-25T20:58:45.079Z",
   "news": [
+    {
+      "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
       "source": "Oliver Knight",
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Strategy proposes daily dividends to bring STRC back toward $100",
@@ -62,13 +69,6 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-      "highlighted": true,
       "reason": ""
     }
   ],
