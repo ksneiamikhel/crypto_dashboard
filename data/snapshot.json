@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-09-26T10:37:39.972Z",
+  "generatedAt": "2026-09-26T15:32:02.642Z",
   "news": [
     {
-      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
       "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
+    },
+    {
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "highlighted": false,
+      "reason": ""
     },
     {
       "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
@@ -48,27 +69,6 @@
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Tokenization is moving faster than Washington",
-      "source": "Andrew Cuomo",
-      "url": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Strategy proposes daily dividends to bring STRC back toward $100",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
-      "highlighted": true,
       "reason": ""
     }
   ],
