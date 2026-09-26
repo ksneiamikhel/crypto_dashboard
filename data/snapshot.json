@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-09-26T03:00:06.230Z",
+  "generatedAt": "2026-09-26T10:37:39.972Z",
   "news": [
+    {
+      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
       "source": "Nikhilesh De",
       "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
@@ -47,27 +68,6 @@
       "title": "Strategy proposes daily dividends to bring STRC back toward $100",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
       "highlighted": true,
       "reason": ""
     }
