@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-27T11:10:40.722Z",
+  "generatedAt": "2026-09-27T16:11:50.299Z",
   "news": [
+    {
+      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "How months of work on the Clarity Act all fell apart",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
       "source": "Will Canny",
@@ -13,14 +27,14 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
@@ -55,20 +69,6 @@
       "source": "Nikhilesh De",
       "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-      "highlighted": false,
       "reason": ""
     }
   ],
