@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-29T17:39:21.859Z",
+  "generatedAt": "2026-09-29T21:44:58.443Z",
   "news": [
+    {
+      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
       "source": "Shaurya Malwa",
@@ -16,11 +23,11 @@
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Bitcoin beats gold, surge to $100,000 in play",
+      "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
@@ -61,13 +68,6 @@
       "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
       "highlighted": true,
       "reason": ""
     }
