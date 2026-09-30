@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-09-30T11:44:44.938Z",
+  "generatedAt": "2026-09-30T17:24:57.158Z",
   "news": [
+    {
+      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "U.S. CFTC seeks event contract definitions that may defy states' gambling claims",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Crypto Long & Short: What will the AI agents run on?",
+      "source": "Utkarsh Ahuja",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’",
       "source": "Joris Delanoue",
       "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
-      "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
+      "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Standard Chartered initiates ENA coverage, BTC tentative ahead of U.S. inflation data",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
       "highlighted": true,
       "reason": ""
     }
