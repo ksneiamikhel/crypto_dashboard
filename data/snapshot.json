@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-09-29T21:44:58.443Z",
+  "generatedAt": "2026-09-30T03:29:41.008Z",
   "news": [
+    {
+      "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
       "source": "Krisztian Sandor",
@@ -20,7 +27,7 @@
       "source": "Tim Scott",
       "url": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
@@ -61,13 +68,6 @@
       "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
       "highlighted": true,
       "reason": ""
     }
