@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-10-01T12:13:46.210Z",
+  "generatedAt": "2026-10-01T22:13:17.785Z",
   "news": [
     {
-      "title": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
+      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Another Trump memecoin dinner advertised for token's top investors",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
+      "source": "Alex Tapscott",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
       "source": "Stephen Alpher",
       "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Synthetic tokenized stocks are bad for American investors",
@@ -41,34 +69,6 @@
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
-      "highlighted": false,
       "reason": ""
     }
   ],
