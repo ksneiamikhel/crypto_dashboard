@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-10-01T03:35:06.116Z",
+  "generatedAt": "2026-10-01T12:13:46.210Z",
   "news": [
+    {
+      "title": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Synthetic tokenized stocks are bad for American investors",
+      "source": "Aaron Kaplan",
+      "url": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "U.S. CFTC seeks event contract definitions that may defy states' gambling claims",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Crypto Long & Short: What will the AI agents run on?",
-      "source": "Utkarsh Ahuja",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’",
-      "source": "Joris Delanoue",
-      "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
-      "highlighted": true,
       "reason": ""
     }
   ],
