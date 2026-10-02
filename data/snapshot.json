@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-10-02T03:34:46.750Z",
+  "generatedAt": "2026-10-02T11:43:08.763Z",
   "news": [
+    {
+      "title": "Cboe wants to turn VIX into a never-ending trade",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "SEC proposes new crypto custody rules for investment advisers and funds",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Another Trump memecoin dinner advertised for token's top investors",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
       "source": "Alex Tapscott",
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
-      "source": "Stephen Alpher",
-      "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Synthetic tokenized stocks are bad for American investors",
-      "source": "Aaron Kaplan",
-      "url": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
-      "highlighted": true,
       "reason": ""
     }
   ],
