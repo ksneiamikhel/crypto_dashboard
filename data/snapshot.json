@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-02T11:43:08.763Z",
+  "generatedAt": "2026-10-02T17:14:32.282Z",
   "news": [
+    {
+      "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
+      "source": "William Schwartz",
+      "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Cboe wants to turn VIX into a never-ending trade",
       "source": "Omkar Godbole",
@@ -9,18 +23,18 @@
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report",
+      "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
@@ -30,7 +44,7 @@
       "reason": ""
     },
     {
-      "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
+      "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
       "highlighted": true,
@@ -55,20 +69,6 @@
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-      "source": "Alex Tapscott",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-      "highlighted": false,
       "reason": ""
     }
   ],
