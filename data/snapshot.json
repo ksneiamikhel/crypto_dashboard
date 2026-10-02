@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-10-02T17:14:32.282Z",
+  "generatedAt": "2026-10-02T21:41:52.417Z",
   "news": [
+    {
+      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
       "source": "William Schwartz",
       "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Cboe wants to turn VIX into a never-ending trade",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
@@ -40,34 +68,6 @@
       "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Another Trump memecoin dinner advertised for token's top investors",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
       "highlighted": true,
       "reason": ""
     }
