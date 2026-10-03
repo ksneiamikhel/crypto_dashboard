@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-03T15:33:23.870Z",
+  "generatedAt": "2026-10-03T20:27:28.751Z",
   "news": [
+    {
+      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
       "source": "Helene Braun",
@@ -13,14 +27,14 @@
       "source": "Ryan Chan-Wei",
       "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bank group sues U.S. regulator over granting crypto trust charters",
@@ -54,20 +68,6 @@
       "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
       "source": "William Schwartz",
       "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Cboe wants to turn VIX into a never-ending trade",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
       "highlighted": false,
       "reason": ""
     }
