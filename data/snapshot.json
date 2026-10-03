@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-10-03T10:56:29.727Z",
+  "generatedAt": "2026-10-03T15:33:23.870Z",
   "news": [
+    {
+      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Crypto's Sisyphean struggle",
+      "source": "Ryan Chan-Wei",
+      "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Bank group sues U.S. regulator over granting crypto trust charters",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
@@ -48,27 +69,6 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin reverses big early gains following soft U.S. jobs data",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin open interest jumps $2.3 billion as traders pay more for bullish positions",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
-      "highlighted": true,
       "reason": ""
     }
   ],
