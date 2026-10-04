@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-04T16:18:18.982Z",
+  "generatedAt": "2026-10-04T20:45:35.957Z",
   "news": [
+    {
+      "title": "There's an election next month: State of Crypto",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Crypto poured years into new products. The next challenge is keeping users",
       "source": "Helene Braun",
@@ -20,7 +27,7 @@
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
@@ -61,13 +68,6 @@
       "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
       "highlighted": false,
       "reason": ""
     }
