@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-04T11:38:39.580Z",
+  "generatedAt": "2026-10-04T16:18:18.982Z",
   "news": [
+    {
+      "title": "Crypto poured years into new products. The next challenge is keeping users",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
       "source": "Will Canny",
@@ -13,14 +27,14 @@
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto's Sisyphean struggle",
@@ -54,20 +68,6 @@
       "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Trump’s potential AI czar, Jay Clayton, helped pioneer the SEC’s crypto crackdown",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
-      "source": "William Schwartz",
-      "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
       "highlighted": false,
       "reason": ""
     }
