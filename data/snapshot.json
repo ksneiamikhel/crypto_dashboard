@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-10-05T13:18:01.904Z",
+  "generatedAt": "2026-10-05T23:34:46.579Z",
   "news": [
+    {
+      "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
@@ -37,37 +65,9 @@
       "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin above $86,000 as traders price out an October Fed hike",
+      "title": "Live updates: Bitcoin under pressure as rates continue to rise",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Cardano's ADA leads gains in narrow range-bound market",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
       "highlighted": true,
       "reason": ""
     }
