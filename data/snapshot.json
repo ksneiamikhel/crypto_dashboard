@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-10-06T04:19:10.697Z",
+  "generatedAt": "2026-10-06T12:34:46.750Z",
   "news": [
     {
-      "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
+      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
       "highlighted": true,
       "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
+      "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
-      "highlighted": false,
-      "reason": ""
+      "url": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
+      "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
       "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+      "url": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
+      "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
+      "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin under pressure as rates continue to rise",
+      "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
+      "url": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
       "highlighted": true,
       "reason": ""
     }
