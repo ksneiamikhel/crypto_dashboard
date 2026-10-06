@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-10-06T12:34:46.750Z",
+  "generatedAt": "2026-10-06T22:08:24.823Z",
   "news": [
+    {
+      "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
+      "source": "Aoyon Ashraf",
+      "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto is expanding the boundaries of what can be priced",
+      "source": "Annabelle Huang",
+      "url": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
+      "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
@@ -37,37 +65,9 @@
       "reason": ""
     },
     {
-      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
       "highlighted": true,
       "reason": ""
     }
