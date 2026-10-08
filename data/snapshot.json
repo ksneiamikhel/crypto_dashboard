@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-10-08T12:37:34.711Z",
+  "generatedAt": "2026-10-08T22:44:11.699Z",
   "news": [
     {
-      "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+      "title": "Crypto crumbles as anniversary of flash crash nears",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
+      "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Live news: Risk assets under pressure as bond selloff and oil rally intensify",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
+      "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
       "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
+      "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+      "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+      "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
+      "source": "Kevin Tam",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
+      "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
-      "highlighted": true,
+      "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
+      "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Crypto investment firm Deus X Capital shuts down as backers pursue separate strategies",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
+      "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
       "highlighted": true,
       "reason": ""
     }
