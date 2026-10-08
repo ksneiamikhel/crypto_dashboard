@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-10-08T03:59:23.335Z",
+  "generatedAt": "2026-10-08T12:37:34.711Z",
   "news": [
     {
-      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+      "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next",
+      "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
+      "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
       "highlighted": false,
-      "reason": ""
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
+      "title": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+      "title": "Live news: Risk assets under pressure as bond selloff and oil rally intensify",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+      "title": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+      "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+      "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
+      "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
+      "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Crypto investment firm Deus X Capital shuts down as backers pursue separate strategies",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
       "highlighted": true,
       "reason": ""
     }
