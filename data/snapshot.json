@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-07T22:31:22.052Z",
+  "generatedAt": "2026-10-08T03:59:23.335Z",
   "news": [
+    {
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
       "source": "Will Canny",
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
@@ -61,13 +68,6 @@
       "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Here’s what bitcoin needs to break above $87,000",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
       "highlighted": true,
       "reason": ""
     }
