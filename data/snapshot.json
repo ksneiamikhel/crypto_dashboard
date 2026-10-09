@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-08T22:44:11.699Z",
+  "generatedAt": "2026-10-09T04:04:33.603Z",
   "news": [
+    {
+      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
       "source": "Jesse Hamilton",
@@ -20,7 +27,7 @@
       "source": "Stephen Alpher",
       "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
@@ -62,13 +69,6 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
-      "highlighted": true,
       "reason": ""
     }
   ],
