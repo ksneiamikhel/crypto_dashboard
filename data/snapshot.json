@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-10-09T12:24:51.222Z",
+  "generatedAt": "2026-10-09T22:06:48.223Z",
   "news": [
+    {
+      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Robinhood Chain considers technology that gives paying traders priority",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
@@ -40,34 +68,6 @@
       "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin climbs back above $83,000; XRP ETFs only crypto funds with inflows Thursday",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
       "highlighted": true,
       "reason": ""
     }
