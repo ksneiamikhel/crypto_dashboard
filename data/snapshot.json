@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-10-10T03:49:53.258Z",
+  "generatedAt": "2026-10-10T11:43:40.923Z",
   "news": [
+    {
+      "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Robinhood Chain considers technology that gives paying traders priority",
       "source": "Ian Allison",
       "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
@@ -40,34 +68,6 @@
       "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
       "highlighted": true,
       "reason": ""
     }
