@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-09T22:06:48.223Z",
+  "generatedAt": "2026-10-10T03:49:53.258Z",
   "news": [
+    {
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
       "source": "Jesse Hamilton",
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
@@ -61,13 +68,6 @@
       "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
       "highlighted": true,
       "reason": ""
     }
