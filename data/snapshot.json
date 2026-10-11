@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-10-11T11:56:31.027Z",
+  "generatedAt": "2026-10-11T17:18:14.655Z",
   "news": [
+    {
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
       "source": "Will Canny",
       "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
@@ -48,27 +69,6 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Robinhood Chain considers technology that gives paying traders priority",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-      "highlighted": true,
       "reason": ""
     }
   ],
