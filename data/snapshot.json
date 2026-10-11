@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-11T17:18:14.655Z",
+  "generatedAt": "2026-10-11T21:21:16.485Z",
   "news": [
+    {
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
       "source": "Will Canny",
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
@@ -61,13 +68,6 @@
       "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
       "highlighted": false,
       "reason": ""
     }
