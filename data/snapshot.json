@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-10-13T13:20:16.121Z",
+  "generatedAt": "2026-10-13T22:10:26.559Z",
   "news": [
+    {
+      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
@@ -37,7 +58,7 @@
       "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin continues in tight range near $83,000, recovering from overnight slide",
+      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
       "highlighted": true,
@@ -47,27 +68,6 @@
       "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
       "highlighted": true,
       "reason": ""
     }
