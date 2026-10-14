@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-14T16:19:13.590Z",
+  "generatedAt": "2026-10-14T21:11:24.218Z",
   "news": [
+    {
+      "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
       "source": "Olivier Acuna",
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
@@ -61,13 +68,6 @@
       "title": "Here's how analysts see U.S. inflation influencing bitcoin",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
       "highlighted": true,
       "reason": ""
     }
