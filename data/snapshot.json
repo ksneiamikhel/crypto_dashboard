@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-13T22:10:26.559Z",
+  "generatedAt": "2026-10-14T03:05:20.145Z",
   "news": [
+    {
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
       "source": "Krisztian Sandor",
@@ -13,14 +27,14 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
@@ -55,20 +69,6 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
-      "highlighted": true,
       "reason": ""
     }
   ],
