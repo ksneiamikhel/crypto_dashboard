@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-10-14T03:05:20.145Z",
+  "generatedAt": "2026-10-14T10:59:28.494Z",
   "news": [
+    {
+      "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
       "source": "Ian Allison",
       "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
-      "source": "Stephen Alpher",
-      "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
-      "highlighted": false,
       "reason": ""
     }
   ],
