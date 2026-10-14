@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-10-14T10:59:28.494Z",
+  "generatedAt": "2026-10-14T16:19:13.590Z",
   "news": [
     {
-      "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
+      "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
+      "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+      "source": "Steve Neamtz",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
+      "source": "Rashan Colbert",
+      "url": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Here's how analysts see U.S. inflation influencing bitcoin",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
       "highlighted": true,
       "reason": ""
     }
