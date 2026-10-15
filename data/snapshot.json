@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-15T16:06:56.428Z",
+  "generatedAt": "2026-10-15T20:49:27.152Z",
   "news": [
+    {
+      "title": "At the White House, crypto policy vacancy looms large",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
       "source": "Eric Soufer",
@@ -20,7 +27,7 @@
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
@@ -37,7 +44,7 @@
       "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
+      "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
       "highlighted": true,
@@ -61,13 +68,6 @@
       "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
       "highlighted": true,
       "reason": ""
     }
