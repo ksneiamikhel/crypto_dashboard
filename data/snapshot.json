@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-10-15T02:45:11.477Z",
+  "generatedAt": "2026-10-15T10:41:42.973Z",
   "news": [
+    {
+      "title": "Live updates: Bitcoin back under $81,000 as AI selloff worsens",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
-      "source": "Steve Neamtz",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-      "source": "Rashan Colbert",
-      "url": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
-      "source": "Stephen Alpher",
-      "url": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Here's how analysts see U.S. inflation influencing bitcoin",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
       "highlighted": true,
       "reason": ""
     }
