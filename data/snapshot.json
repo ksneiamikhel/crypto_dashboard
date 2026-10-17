@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-16T20:23:14.759Z",
+  "generatedAt": "2026-10-17T02:33:18.690Z",
   "news": [
+    {
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Big Tech's AI auditors will only see what they're shown",
       "source": "Samuel Vance-Law",
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
@@ -51,7 +58,7 @@
       "reason": ""
     },
     {
-      "title": "Live updates: Crypto gives up more ground as AI selloff picks up steam",
+      "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
       "highlighted": true,
@@ -61,13 +68,6 @@
       "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
       "highlighted": true,
       "reason": ""
     }
