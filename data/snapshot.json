@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-17T09:59:21.505Z",
+  "generatedAt": "2026-10-17T14:47:38.832Z",
   "news": [
+    {
+      "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
       "source": "Shaurya Malwa",
@@ -13,14 +27,14 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Big Tech's AI auditors will only see what they're shown",
       "source": "Samuel Vance-Law",
       "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
@@ -54,20 +68,6 @@
       "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
       "highlighted": true,
       "reason": ""
     }
