@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-18T19:57:17.175Z",
+  "generatedAt": "2026-10-19T02:47:54.647Z",
   "news": [
+    {
+      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "The White House's crypto chief departs: State of Crypto",
       "source": "Nikhilesh De",
@@ -9,18 +23,18 @@
       "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
@@ -54,20 +68,6 @@
       "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
       "highlighted": false,
       "reason": ""
     }
