@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-19T18:08:50.070Z",
+  "generatedAt": "2026-10-20T02:58:28.414Z",
   "news": [
+    {
+      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
       "source": "Jesse Hamilton",
@@ -20,7 +27,7 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
@@ -61,13 +68,6 @@
       "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
       "highlighted": true,
       "reason": ""
     }
