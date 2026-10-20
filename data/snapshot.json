@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-10-20T16:10:27.083Z",
+  "generatedAt": "2026-10-20T21:07:19.846Z",
   "news": [
+    {
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+      "source": "Michael Tanguma",
+      "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
       "source": "Helene Braun",
@@ -13,14 +27,14 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
@@ -54,20 +68,6 @@
       "title": "Live updates: Bitcoin cuts losses as stocks edge higher",
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
       "highlighted": true,
       "reason": ""
     }
