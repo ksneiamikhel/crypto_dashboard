@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-20T21:07:19.846Z",
+  "generatedAt": "2026-10-21T02:53:02.718Z",
   "news": [
+    {
+      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
       "source": "Krisztian Sandor",
@@ -20,7 +27,7 @@
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
@@ -61,13 +68,6 @@
       "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin cuts losses as stocks edge higher",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
       "highlighted": true,
       "reason": ""
     }
