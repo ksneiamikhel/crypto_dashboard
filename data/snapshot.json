@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-10-22T10:58:14.967Z",
+  "generatedAt": "2026-10-22T16:26:32.380Z",
   "news": [
+    {
+      "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+      "source": "Prashant Kher",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+      "title": "Live updates: Bitcoin slumps below $82,000 as risk off mood returns",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
       "highlighted": true,
       "reason": ""
     }
