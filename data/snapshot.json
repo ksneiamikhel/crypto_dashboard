@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-22T16:26:32.380Z",
+  "generatedAt": "2026-10-22T21:05:23.737Z",
   "news": [
+    {
+      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
       "source": "Jamie Crawley",
@@ -20,7 +27,7 @@
       "source": "Ian Allison",
       "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
@@ -58,16 +65,9 @@
       "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin slumps below $82,000 as risk off mood returns",
+      "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
       "highlighted": true,
       "reason": ""
     }
