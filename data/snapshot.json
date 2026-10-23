@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-22T21:05:23.737Z",
+  "generatedAt": "2026-10-23T02:55:11.523Z",
   "news": [
+    {
+      "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
       "source": "Krisztian Sandor",
@@ -20,7 +27,7 @@
       "source": "Prashant Kher",
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
@@ -62,13 +69,6 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-      "highlighted": true,
       "reason": ""
     }
   ],
