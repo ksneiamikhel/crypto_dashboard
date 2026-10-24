@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-24T02:52:03.362Z",
+  "generatedAt": "2026-10-24T10:05:58.959Z",
   "news": [
+    {
+      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
       "source": "Helene Braun",
@@ -20,7 +27,7 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
@@ -62,13 +69,6 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
-      "highlighted": false,
       "reason": ""
     }
   ],
