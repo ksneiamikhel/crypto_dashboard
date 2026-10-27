@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-10-27T11:24:12.260Z",
+  "generatedAt": "2026-10-27T17:12:57.809Z",
   "news": [
+    {
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Now is the time to accumulate bitcoin, Galaxy says",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "An AI label alone no longer wins lenders, JPMorgan says",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
       "highlighted": true,
       "reason": ""
     }
