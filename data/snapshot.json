@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-10-27T03:17:03.003Z",
+  "generatedAt": "2026-10-27T11:24:12.260Z",
   "news": [
+    {
+      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Now is the time to accumulate bitcoin, Galaxy says",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "An AI label alone no longer wins lenders, JPMorgan says",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "OCC calls on community banks to enter the stablecoin payments market",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "AI giant Anthropic files for blockbuster IPO",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live news: Bitcoin dips below $80,000 as stocks rally following Anthropic IPO filing",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
       "highlighted": true,
       "reason": ""
     }
