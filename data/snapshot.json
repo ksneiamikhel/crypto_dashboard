@@ -1,29 +1,57 @@
 {
-  "generatedAt": "2026-10-28T17:55:13.305Z",
+  "generatedAt": "2026-10-28T22:05:47.648Z",
   "news": [
+    {
+      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Crypto isn’t a partisan fight, proven by data",
+      "source": "Jennifer Rosenthal",
+      "url": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Fed leaves interest rates unchanged, as expected",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
       "source": "Albert Castellana",
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
-      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
       "highlighted": false,
@@ -40,34 +68,6 @@
       "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Google to preview crypto custody security system as AI threats grow",
-      "source": "Aoyon Ashraf",
-      "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
       "highlighted": false,
       "reason": ""
     }
