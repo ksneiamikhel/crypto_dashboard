@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-27T21:41:13.021Z",
+  "generatedAt": "2026-10-28T03:32:18.713Z",
   "news": [
+    {
+      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
       "source": "Krisztian Sandor",
@@ -20,7 +27,7 @@
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
@@ -61,13 +68,6 @@
       "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
       "highlighted": true,
       "reason": ""
     }
