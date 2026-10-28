@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-10-28T03:32:18.713Z",
+  "generatedAt": "2026-10-28T11:57:10.271Z",
   "news": [
     {
-      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
       "highlighted": true,
       "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+      "title": "Google to preview crypto custody security system as AI threats grow",
+      "source": "Aoyon Ashraf",
+      "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
       "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+      "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+      "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
       "highlighted": true,
       "reason": ""
     }
