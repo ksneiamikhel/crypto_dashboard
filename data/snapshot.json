@@ -1,26 +1,61 @@
 {
-  "generatedAt": "2026-10-28T11:57:10.271Z",
+  "generatedAt": "2026-10-28T17:55:13.305Z",
   "news": [
+    {
+      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+      "source": "Albert Castellana",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Dissent and more: 3 things to watch for at the Fed meeting",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision",
+      "title": "Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Google to preview crypto custody security system as AI threats grow",
@@ -34,41 +69,6 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-      "highlighted": true,
       "reason": ""
     }
   ],
