@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-10-29T12:05:51.855Z",
+  "generatedAt": "2026-10-29T22:18:34.742Z",
   "news": [
     {
-      "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
+      "title": "Binance loses $5.7 billion in largest crypto hack to date",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Cathie Wood’s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump",
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
       "highlighted": false,
-      "reason": ""
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
+      "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+      "source": "Aoyon Ashraf",
+      "url": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
       "highlighted": false,
-      "reason": ""
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bermuda taps WalletConnect to advance its onchain economy plan",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
+      "url": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "The chart bitcoin traders should be paying attention to",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Crypto exchange HTX exits the UK after settling with the FCA",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+      "source": "Jennifer Rosenthal",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
       "highlighted": true,
       "reason": ""
     }
