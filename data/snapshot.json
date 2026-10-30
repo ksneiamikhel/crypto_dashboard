@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-10-30T03:55:38.713Z",
+  "generatedAt": "2026-10-30T11:58:05.912Z",
   "news": [
     {
-      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Polymarket suspends trading after third-party breach leads to user losses",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
-      "highlighted": false,
-      "reason": ""
+      "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
     },
     {
-      "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
-      "source": "Aoyon Ashraf",
-      "url": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
+      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto exchange HTX exits the UK after settling with the FCA",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
+      "title": "Live updates: Binance finds more breaches in $6.3 billion hack; AI spending fears hit tech",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
+      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
-      "source": "Jennifer Rosenthal",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
+      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
       "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+      "highlighted": true,
       "reason": ""
     }
   ],
