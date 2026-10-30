@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-30T17:48:28.499Z",
+  "generatedAt": "2026-10-30T21:51:49.863Z",
   "news": [
+    {
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
       "source": "Olivier Acuna",
@@ -20,7 +27,7 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Here's how big bitcoin traders responded after the Binance hack hit",
@@ -51,7 +58,7 @@
       "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes",
+      "title": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
       "highlighted": true,
@@ -62,13 +69,6 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-      "highlighted": true,
       "reason": ""
     }
   ],
