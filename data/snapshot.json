@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-10-29T22:18:34.742Z",
+  "generatedAt": "2026-10-30T03:55:38.713Z",
   "news": [
     {
-      "title": "Binance loses $5.7 billion in largest crypto hack to date",
-      "source": "Stephen Alpher",
+      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
+      "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
@@ -13,14 +27,14 @@
       "source": "Nikhilesh De",
       "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
       "source": "Aoyon Ashraf",
       "url": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
@@ -55,20 +69,6 @@
       "source": "Jennifer Rosenthal",
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
-      "highlighted": true,
       "reason": ""
     }
   ],
