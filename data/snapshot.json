@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-31T16:39:42.470Z",
+  "generatedAt": "2026-10-31T20:52:17.725Z",
   "news": [
+    {
+      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "source": "Michael Tanguma",
+      "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
       "source": "Olivier Acuna",
@@ -20,7 +27,7 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Institutions embrace crypto staking despite shrinking yields",
@@ -62,13 +69,6 @@
       "source": "Jamie Crawley",
       "url": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-      "highlighted": true,
       "reason": ""
     }
   ],
