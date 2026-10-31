@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-31T03:40:12.083Z",
+  "generatedAt": "2026-10-31T11:31:23.410Z",
   "news": [
+    {
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
       "source": "Stephen Alpher",
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
@@ -61,13 +68,6 @@
       "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
       "highlighted": true,
       "reason": ""
     }
