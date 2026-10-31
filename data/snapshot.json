@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-30T21:51:49.863Z",
+  "generatedAt": "2026-10-31T03:40:12.083Z",
   "news": [
+    {
+      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
       "source": "Olivier Acuna",
@@ -20,7 +27,7 @@
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
@@ -62,13 +69,6 @@
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
-      "highlighted": false,
       "reason": ""
     }
   ],
