@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-10-31T20:52:17.725Z",
+  "generatedAt": "2026-11-01T03:46:40.868Z",
   "news": [
+    {
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
       "source": "Michael Tanguma",
@@ -20,7 +27,7 @@
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
@@ -62,13 +69,6 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
-      "highlighted": false,
       "reason": ""
     }
   ],
