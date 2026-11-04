@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-11-03T22:46:17.624Z",
+  "generatedAt": "2026-11-04T04:24:26.268Z",
   "news": [
+    {
+      "title": "Live updates: Crypto's big election gamble faces voters as Democrats gain ground",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "What voters said about their views on crypto",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
@@ -47,27 +68,6 @@
       "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
       "highlighted": true,
       "reason": ""
     }
