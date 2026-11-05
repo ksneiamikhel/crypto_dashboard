@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-11-05T04:40:54.738Z",
+  "generatedAt": "2026-11-05T13:50:23.700Z",
   "news": [
     {
-      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+      "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+      "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
+      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
+      "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+      "url": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+      "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
-      "source": "Andy Baehr",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
+      "title": "Live updates: Bitcoin edges lower as markets cool following yesterday's rally",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "The election changes Washington. The work on crypto continues",
-      "source": "Lindsay Fraser",
-      "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
-      "source": "Stephen Alpher",
-      "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+      "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
-      "highlighted": false,
+      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
+      "highlighted": true,
       "reason": ""
     }
   ],
