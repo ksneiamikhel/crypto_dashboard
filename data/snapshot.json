@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-11-05T13:50:23.700Z",
+  "generatedAt": "2026-11-05T23:08:18.267Z",
   "news": [
+    {
+      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+      "source": "Sarah Morton",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
-      "source": "Jamie Crawley",
-      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin edges lower as markets cool following yesterday's rally",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
       "highlighted": true,
       "reason": ""
     }
