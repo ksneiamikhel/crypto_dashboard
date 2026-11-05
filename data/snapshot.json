@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-04T23:04:11.728Z",
+  "generatedAt": "2026-11-05T04:40:54.738Z",
   "news": [
+    {
+      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
       "source": "Krisztian Sandor",
@@ -20,7 +27,7 @@
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
@@ -62,13 +69,6 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
-      "highlighted": true,
       "reason": ""
     }
   ],
