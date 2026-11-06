@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-11-06T04:40:17.694Z",
+  "generatedAt": "2026-11-06T13:35:28.737Z",
   "news": [
+    {
+      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
-      "source": "Sarah Morton",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-      "source": "Will Canny",
-      "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
       "highlighted": true,
       "reason": ""
     }
