@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-08T21:33:17.445Z",
+  "generatedAt": "2026-11-09T04:03:49.451Z",
   "news": [
+    {
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "What the election results mean for crypto: State of Crypto",
       "source": "Nikhilesh De",
@@ -20,7 +27,7 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
@@ -62,13 +69,6 @@
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
-      "highlighted": true,
       "reason": ""
     }
   ],
