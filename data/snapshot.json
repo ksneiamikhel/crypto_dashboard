@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-11-09T04:03:49.451Z",
+  "generatedAt": "2026-11-09T14:53:50.947Z",
   "news": [
     {
-      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "What the election results mean for crypto: State of Crypto",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Stablecoin growth has stalled. The payments boom hasn't",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin bulls can't rely on ETF flows",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Nvidia-led tech selloff weighs on crypto majors",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+      "url": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Live news: Bitcoin slides to $74,000 as Huang scandal weighs on Nvidia",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
       "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+      "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
-      "highlighted": false,
+      "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "SpaceX proposes a $24 billion Texas supercomputer and a gas plant",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+      "highlighted": true,
       "reason": ""
     }
   ],
