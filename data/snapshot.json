@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-11-10T01:03:30.878Z",
+  "generatedAt": "2026-11-10T14:06:42.962Z",
   "news": [
     {
-      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+      "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "Google’s AI chip push adds more pressure on Nvidia",
+      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
       "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "title": "Live news: Bitcoin adds to losses after disappointing inflation data",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
       "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+      "url": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+      "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin bulls can't rely on ETF flows",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Nvidia-led tech selloff weighs on crypto majors",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
-      "highlighted": false,
       "reason": ""
     }
   ],
