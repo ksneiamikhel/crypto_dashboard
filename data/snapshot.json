@@ -1,26 +1,61 @@
 {
-  "generatedAt": "2026-11-09T14:53:50.947Z",
+  "generatedAt": "2026-11-10T01:03:30.878Z",
   "news": [
+    {
+      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Google’s AI chip push adds more pressure on Nvidia",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitcoin bulls can't rely on ETF flows",
@@ -34,41 +69,6 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live news: Bitcoin slides to $74,000 as Huang scandal weighs on Nvidia",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "SpaceX proposes a $24 billion Texas supercomputer and a gas plant",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
-      "highlighted": true,
       "reason": ""
     }
   ],
