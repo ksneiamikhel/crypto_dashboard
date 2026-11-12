@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-11-11T23:56:02.570Z",
+  "generatedAt": "2026-11-12T05:34:14.631Z",
   "news": [
+    {
+      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin listless, Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
       "source": "Ian Allison",
       "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
@@ -47,27 +68,6 @@
       "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
       "highlighted": false,
       "reason": ""
     }
