@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-12T23:03:54.181Z",
+  "generatedAt": "2026-11-13T04:35:39.480Z",
   "news": [
+    {
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
       "source": "Jesse Hamilton",
@@ -9,7 +16,7 @@
       "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "U.S. President names CFTC, SEC nominees for first time in a year",
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
       "source": "Nikhilesh De",
       "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
       "highlighted": true,
@@ -20,7 +27,7 @@
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
@@ -62,13 +69,6 @@
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin weakness erases September's bullish signal",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
-      "highlighted": true,
       "reason": ""
     }
   ],
