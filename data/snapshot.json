@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-11-13T13:46:01.908Z",
+  "generatedAt": "2026-11-13T23:07:38.384Z",
   "news": [
+    {
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+      "source": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+      "highlighted": false,
+      "reason": ""
+    },
     {
       "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
-      "title": "Live news: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
+      "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
@@ -40,34 +68,6 @@
       "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
       "highlighted": true,
       "reason": ""
     }
