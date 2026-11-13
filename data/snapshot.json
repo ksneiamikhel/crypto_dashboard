@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-11-13T04:35:39.480Z",
+  "generatedAt": "2026-11-13T13:46:01.908Z",
   "news": [
+    {
+      "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Live news: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
       "source": "Nikhilesh De",
       "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto for Advisors: The blockchain built to run financial markets",
-      "source": "Josh Olszewicz",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
-      "source": "Allie Page",
-      "url": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
-      "highlighted": false,
       "reason": ""
     }
   ],
