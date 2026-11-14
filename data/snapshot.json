@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-13T23:07:38.384Z",
+  "generatedAt": "2026-11-14T04:30:18.727Z",
   "news": [
+    {
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
       "source": "Helene Braun",
@@ -20,7 +27,7 @@
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
@@ -61,13 +68,6 @@
       "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
       "highlighted": true,
       "reason": ""
     }
