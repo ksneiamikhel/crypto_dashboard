@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-14T04:30:18.727Z",
+  "generatedAt": "2026-11-14T12:50:04.386Z",
   "news": [
+    {
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
     {
       "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
       "source": "Shaurya Malwa",
@@ -20,7 +27,7 @@
       "source": "Jesse Hamilton",
       "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
@@ -62,13 +69,6 @@
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-      "highlighted": true,
       "reason": ""
     }
   ],
