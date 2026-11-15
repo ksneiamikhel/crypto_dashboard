@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-11-14T21:53:08.152Z",
+  "generatedAt": "2026-11-15T04:18:53.772Z",
   "news": [
     {
-      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
       "source": "Stephen Alpher",
       "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "highlighted": true,
@@ -20,7 +27,7 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
@@ -61,13 +68,6 @@
       "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
       "highlighted": true,
       "reason": ""
     }
