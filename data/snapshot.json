@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-11-17T01:25:46.118Z",
+  "generatedAt": "2026-11-17T15:20:49.845Z",
   "news": [
     {
-      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+      "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "German parliament proposes crypto seizures without criminal charges",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Solana drops ‘beta’ label after more than six years",
+      "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
       "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
+      "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
       "highlighted": false,
-      "reason": ""
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
+      "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
       "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
+      "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+      "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
       "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+      "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
       "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin holds near $65,000 as tech flattens out ahead of Nvidia earnings",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+      "highlighted": true,
       "reason": ""
     }
   ],
