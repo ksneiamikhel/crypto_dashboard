@@ -1,26 +1,61 @@
 {
-  "generatedAt": "2026-11-17T15:20:49.845Z",
+  "generatedAt": "2026-11-18T00:21:29.968Z",
   "news": [
+    {
+      "title": "Nvidia tops estimates, issues strong guidance; shares rise",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
+      "source": "Aoyon Ashraf",
+      "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
@@ -33,41 +68,6 @@
       "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin holds near $65,000 as tech flattens out ahead of Nvidia earnings",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
       "highlighted": true,
       "reason": ""
     }
