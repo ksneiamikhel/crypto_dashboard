@@ -1,26 +1,61 @@
 {
-  "generatedAt": "2026-11-18T14:56:03.862Z",
+  "generatedAt": "2026-11-18T23:46:31.470Z",
   "news": [
+    {
+      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "source": "Darren Jordan",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
       "source": "Helene Braun",
       "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
@@ -33,41 +68,6 @@
       "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
       "source": "Oliver Knight",
       "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Strategy stock could plunge 76% to $23, chart analyst warns",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin slides towards $63,000 as U.S. stocks fall and Nvidia erases gains",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
       "highlighted": true,
       "reason": ""
     }
