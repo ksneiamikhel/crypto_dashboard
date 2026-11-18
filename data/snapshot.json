@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-11-18T00:21:29.968Z",
+  "generatedAt": "2026-11-18T14:56:03.862Z",
   "news": [
     {
-      "title": "Nvidia tops estimates, issues strong guidance; shares rise",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
-    },
-    {
-      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
-      "source": "Aoyon Ashraf",
-      "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
+      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
       "highlighted": false,
-      "reason": ""
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+      "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
       "highlighted": false,
-      "reason": ""
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+      "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
       "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Strategy stock could plunge 76% to $23, chart analyst warns",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin slides towards $63,000 as U.S. stocks fall and Nvidia erases gains",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
       "highlighted": true,
       "reason": ""
     }
