@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-11-19T05:29:19.618Z",
+  "generatedAt": "2026-11-19T15:01:46.623Z",
   "news": [
     {
-      "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+      "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
+      "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
       "highlighted": false,
-      "reason": ""
+      "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
-      "source": "Darren Jordan",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
-      "highlighted": false,
-      "reason": ""
+      "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
       "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
+      "highlighted": true,
+      "reason": "Flows and positioning data can change price action quickly."
+    },
+    {
+      "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
+      "source": "Jamie Crawley",
+      "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
+      "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
       "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+      "highlighted": true,
       "reason": ""
     }
   ],
