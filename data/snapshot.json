@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-11-20T14:44:20.969Z",
+  "generatedAt": "2026-11-20T23:33:42.072Z",
   "news": [
+    {
+      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
-      "title": "Live news: Bitcoin hovers just above $61,000 as Anthropic slides after Nasdaq debut",
+      "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
@@ -41,34 +69,6 @@
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
       "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin drops for third straight day as Asian tech shares slide",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
-      "highlighted": false,
       "reason": ""
     }
   ],
