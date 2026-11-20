@@ -1,26 +1,61 @@
 {
-  "generatedAt": "2026-11-19T15:01:46.623Z",
+  "generatedAt": "2026-11-20T00:08:42.618Z",
   "news": [
+    {
+      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Anthropic gains after IPO, but pulls off highest levels",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+      "source": "Joshua de Vos",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
       "source": "Shaurya Malwa",
       "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
       "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
+      "reason": ""
     },
     {
       "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
@@ -34,41 +69,6 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-      "highlighted": true,
       "reason": ""
     }
   ],
