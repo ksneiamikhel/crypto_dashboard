@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-20T23:33:42.072Z",
+  "generatedAt": "2026-11-21T05:09:27.577Z",
   "news": [
+    {
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Kalshi races to get ahead of New York order that could shut down exchange",
       "source": "Jesse Hamilton",
@@ -20,7 +27,7 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
@@ -61,13 +68,6 @@
       "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
       "highlighted": true,
       "reason": ""
     }
