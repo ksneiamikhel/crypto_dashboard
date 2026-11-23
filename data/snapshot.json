@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-22T23:05:12.840Z",
+  "generatedAt": "2026-11-23T05:11:51.803Z",
   "news": [
+    {
+      "title": "Market rout kills 50 basis points December Fed rate hike bets",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "More on the pending oversight hearings: State of Crypto",
       "source": "Nikhilesh De",
@@ -20,7 +27,7 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
@@ -61,13 +68,6 @@
       "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
       "highlighted": true,
       "reason": ""
     }
