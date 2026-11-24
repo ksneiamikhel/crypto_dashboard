@@ -1,26 +1,54 @@
 {
-  "generatedAt": "2026-11-23T17:04:03.836Z",
+  "generatedAt": "2026-11-24T03:42:05.755Z",
   "news": [
+    {
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "New York judge declines to block Kalshi from operating in the state for now",
+      "source": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
+      "highlighted": true,
+      "reason": ""
+    },
     {
       "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
       "highlighted": true,
-      "reason": "Flows and positioning data can change price action quickly."
+      "reason": ""
     },
     {
       "title": "Binance hackers push $247 million through transactions designed to cloud the source",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
@@ -41,34 +69,6 @@
       "source": "Krisztian Sandor",
       "url": "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue",
       "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin climbs to $62,000 as Nasdaq soars 6% on Huang return",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover",
-      "highlighted": true,
       "reason": ""
     }
   ],
