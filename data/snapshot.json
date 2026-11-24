@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-11-24T03:42:05.755Z",
+  "generatedAt": "2026-11-24T16:50:23.271Z",
   "news": [
     {
-      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
+      "source": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "New York judge declines to block Kalshi from operating in the state for now",
-      "source": "Nikhilesh De",
-      "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
+      "title": "Anchorage Digital to unveil new asset-management subsidiary",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
+      "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
+    {
+      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+      "title": "Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture",
+      "source": "Stephen Alpher",
+      "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
       "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+      "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
+      "url": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+      "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Nvidia soars as Jensen Huang returns to lead company",
+      "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
       "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
-      "highlighted": false,
+      "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
+      "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue",
-      "highlighted": false,
+      "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
+      "highlighted": true,
       "reason": ""
     }
   ],
