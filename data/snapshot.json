@@ -1,6 +1,13 @@
 {
-  "generatedAt": "2026-11-24T16:50:23.271Z",
+  "generatedAt": "2026-11-25T01:49:06.509Z",
   "news": [
+    {
+      "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
+      "source": "Jesse Hamilton",
+      "url": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
+      "highlighted": true,
+      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+    },
     {
       "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
       "source": "Helene Braun",
@@ -20,7 +27,7 @@
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
       "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
@@ -30,7 +37,7 @@
       "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture",
+      "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
       "source": "Stephen Alpher",
       "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
       "highlighted": true,
@@ -61,13 +68,6 @@
       "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
       "source": "James Van Straten",
       "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
       "highlighted": true,
       "reason": ""
     }
