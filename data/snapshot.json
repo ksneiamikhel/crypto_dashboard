@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-11-25T01:49:06.509Z",
+  "generatedAt": "2026-11-25T16:38:10.911Z",
   "news": [
     {
-      "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
-      "source": "Jesse Hamilton",
-      "url": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
+      "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
       "highlighted": true,
       "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
     },
     {
-      "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
-      "source": "Helene Braun",
-      "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
+      "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "Anchorage Digital to unveil new asset-management subsidiary",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
-      "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+      "source": "Phillip Lord",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+      "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+      "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
+      "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
       "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
+      "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
-      "source": "Stephen Alpher",
-      "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
+      "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
       "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+      "url": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
+      "title": "Live updates: Bitcoin tumbles to $58,000 alongside continuing tech rout",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
       "highlighted": true,
       "reason": ""
     }
