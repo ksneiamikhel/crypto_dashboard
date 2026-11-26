@@ -1,73 +1,73 @@
 {
-  "generatedAt": "2026-11-26T01:26:12.323Z",
+  "generatedAt": "2026-11-26T16:11:29.781Z",
   "news": [
     {
-      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+      "source": "Sarah Morton",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
-      "source": "Krisztian Sandor",
-      "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+      "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
       "highlighted": true,
       "reason": "Fresh market-moving headline that may influence short-term sentiment."
     },
     {
-      "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
-      "highlighted": true,
-      "reason": "Macro-sensitive headline that can move risk appetite and BTC sentiment."
-    },
-    {
-      "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
-      "source": "Phillip Lord",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+      "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+      "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
+      "source": "Ian Allison",
+      "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+      "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
       "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+      "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+      "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+      "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
       "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+      "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Zcash developers want to phase out older privacy system as a precaution against future attacks",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
       "highlighted": true,
       "reason": ""
     }
