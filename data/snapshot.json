@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-25T16:38:10.911Z",
+  "generatedAt": "2026-11-26T01:26:12.323Z",
   "news": [
+    {
+      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+      "highlighted": false,
+      "reason": "A new headline from the feed with context worth monitoring."
+    },
+    {
+      "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+      "source": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
       "source": "Francisco Rodrigues",
@@ -13,14 +27,14 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
       "source": "Phillip Lord",
       "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
@@ -54,20 +68,6 @@
       "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
       "source": "Omkar Godbole",
       "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Live updates: Bitcoin tumbles to $58,000 alongside continuing tech rout",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
       "highlighted": true,
       "reason": ""
     }
