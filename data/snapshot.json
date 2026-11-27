@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-26T16:11:29.781Z",
+  "generatedAt": "2026-11-27T01:23:12.760Z",
   "news": [
+    {
+      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "source": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
     {
       "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
       "source": "Sarah Morton",
@@ -13,14 +27,14 @@
       "source": "Francisco Rodrigues",
       "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
       "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+      "reason": ""
     },
     {
       "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
       "highlighted": false,
-      "reason": "A new headline from the feed with context worth monitoring."
+      "reason": ""
     },
     {
       "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
@@ -54,20 +68,6 @@
       "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
       "source": "Olivier Acuna",
       "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-      "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Zcash developers want to phase out older privacy system as a precaution against future attacks",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
       "highlighted": true,
       "reason": ""
     }
