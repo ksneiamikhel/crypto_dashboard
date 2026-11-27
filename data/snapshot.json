@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-11-27T01:23:12.760Z",
+  "generatedAt": "2026-11-27T15:57:18.857Z",
   "news": [
     {
-      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
-      "source": "Shaurya Malwa",
-      "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
-      "highlighted": true,
-      "reason": "Fresh market-moving headline that may influence short-term sentiment."
-    },
-    {
-      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
-      "source": "Sarah Morton",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+      "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
       "highlighted": false,
       "reason": "A new headline from the feed with context worth monitoring."
     },
     {
-      "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
-      "source": "Francisco Rodrigues",
-      "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
-      "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
-      "highlighted": false,
-      "reason": ""
-    },
-    {
-      "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+      "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
       "source": "Omkar Godbole",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+      "source": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+      "highlighted": true,
+      "reason": "Fresh market-moving headline that may influence short-term sentiment."
+    },
+    {
+      "title": "Live updates: Bitcoin drops below $60,000 as Nasdaq 100 gives up most of its early gains",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
       "highlighted": true,
       "reason": ""
     },
     {
-      "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-      "source": "Ian Allison",
-      "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+      "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Injective asks SEC to allow order books for tokenized stock trading",
+      "source": "Olivier Acuna",
+      "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
       "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-      "source": "Oliver Knight",
-      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-      "highlighted": true,
+      "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+      "source": "Francisco Rodrigues",
+      "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+      "highlighted": false,
       "reason": ""
     },
     {
-      "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
-      "source": "James Van Straten",
-      "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
-      "highlighted": true,
-      "reason": ""
-    },
-    {
-      "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+      "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
       "source": "Olivier Acuna",
-      "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+      "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+      "highlighted": false,
+      "reason": ""
+    },
+    {
+      "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+      "source": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
       "highlighted": true,
+      "reason": ""
+    },
+    {
+      "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+      "source": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+      "highlighted": false,
       "reason": ""
     }
   ],
